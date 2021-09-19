@@ -30,53 +30,53 @@ Examples of the graphic output stream of unique series generation with parametri
 
 ### Quartzgate
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-quartzgate-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-quartzgate-example.png)
 
 ### Geode
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-geode-example.png)
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-geode2-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-geode-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-geode2-example.png)
 
 ### Crystal
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-crystal-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-crystal-example.png)
 
 ### Planet
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-planet-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-planet-example.png)
 
 ### Mantra-mandala
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-mantra-mandala-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-mantra-mandala-example.png)
 
 ### Kaleidoscope
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-kaleidoscope-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-kaleidoscope-example.png)
 
 ### Symbol
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-logotype-example.png)
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-logotype2-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-logotype-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-logotype2-example.png)
 
 ### Snowflake
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-snowflake-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-snowflake-example.png)
 
 ### Star
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-star-example.png)
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-star2-example.png)
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-star3-example.png)
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-star4-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-star-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-star2-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-star3-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-star4-example.png)
 
 ### Coral
 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-coral-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-coral-example.png)
 
 ### Triangle
- 
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-triangle-example.png)
-![alt text](https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-gen-triangle2-example.png)
+
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-triangle-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-triangle2-example.png)
 
 ## 💖 Support project
 
