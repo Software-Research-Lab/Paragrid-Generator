@@ -1,2 +1,134 @@
-# paragrid-doc
-✔️ 🔍 "Paragrid" desktop application provides data parametric grid sequencer control, matrix processing graph visualization generator, and structure build settings and presets with image file unique series output.
+ # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
+ 
+ ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
+
+**Toy Artificial Intelligence\
+Research, innovation and technology development\
+Intelligent systems and robotics laboratory**
+
+#
+
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)
+ 
+# Paragrid
+
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img5.jpg)
+
+### ✔️ Content
+
+ - [How to use](#How-to-use)
+ - [Controls](#Controls)
+ - [Setting](#Setting)
+ - [Structural identification option](#Structural-identification-option)
+ - [Design effect](#Design-effect)
+ - [Control property](#Control-property)
+ - [Generation and save](#Generation-and-save)
+ - [Test demo app](#Test-demo-app)
+
+📌[Paragrid NN-Topology processing presets output catalog](https://github.com/ladooniani/paragrid/blob/main/markups/paragrid-presets.md) 
+
+## Paragrid
+
+"Paragrid" desktop application provides data parametric grid sequencer control, matrix processing graph visualization generator, and structure build settings and presets with image file unique series output. 
+
+## How to use
+
+1. [Download](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) Windows Installer and install "Paragrid" application on the computer 
+  
+ <img src="https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-app-1.png" width="800">  
+
+### Controls
+
+1. Scroll track bars **1** or **2** under **Radius** label, to control radius of input "blue" and second "red" layer circle
+
+2. Change numeric up down number value under **Orbital unit nodes** label to add interconnection points to circles
+
+3. Scroll track bars under **Rotation** label, to rotate points sets **1** or **2** around the circumference
+
+4. Scroll track bars under **Center shift turn** label, to shift circles center spin axis by **X** and **Y** 
+
+<!--- <img src="https://github.com/ladooniani/Markups/blob/main/images/paragrid/paragrid-app-2.png" width="800"> --->
+
+### Setting
+
+#### Structural identification option
+
+1. Check or uncheck **Structure on/off** radio button to switch from structural layer circles and node points to clear grid view.
+
+✔️ Note: **Structure off** condition provides adding of **Center colors on/off** and **Grid colors on/off** presets design option.
+
+2. Check or uncheck **Hide/Show node units** radio button to hide or display nodes id numbers and count.
+
+3. Check or uncheck **Hide/Show center link** radio button to hide or display the common center link with circles centers and nodes, and nodes connection. 
+
+#
+
+#### Design effect
+
+1. Check or uncheck **Structure on/off** radio button to use **Center colors off/on** option to add central core inclusion colors transfusion.
+
+✔️ Note: Effect activated with **Center shift turn** 0 **X** and **Y** value.
+
+2. Check or uncheck **Structure on/off** radio button to use **Grid colors on/off** radio button option to add random color to network structure connection.
+
+✔️ Note: To use effects for generetion series design setting, uncheck **Hide/Show node units** and **Hide/Show center link** structural identification options.
+
+3. Change numeric up-down number value under **Line width** label to increase/decrease network connection line width
+
+#
+
+#### Control property
+
+1. Check or uncheck **Shift centers/Single** to switch from polarized divergence to single shift of the circle center by XY of **Center shift turn** control 
+
+#
+
+#### Generation and save
+
+1. Change numeric up-down number value under **Number** label to set the number of generations for image file output.
+ 
+2. Check or uncheck **JPG** and **PNG** checkbox to set output image file formats. 
+
+3. Select generation processing preset from the drop-down list.
+
+✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
+
+4. Click **Generate** button to generate image files according **Number** value.
+
+✔️ Note: To generate files check one or both **JPG** and **PNG** output image file formats.
+
+5. To save actual grid image, click **Save image** and **Open Folder** to open Project folder 📁 directory by path C:/Users/User/AppData/Roaming/Tailab/Paragrid/Output
+
+#
+
+#### Display option
+
+1. To resize the display screen, click **Screen on/off** button
+
+#
+
+### Test demo app
+
+ [Test demo apps](https://github.com/ladooniani/Data-parametric-sequencer) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
+
+💾 [Paragrid application](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) 
+
+☁️ [Paragrid repository](https://github.com/ladooniani/Data-parametric-sequencer) 
+
+## 💖 Support project
+
+Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
+
+To support the project follow the donation link: 
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRGH6SL9EL72U">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" /><br><br>
+</a>
+
+## Lab
+
+### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
+
+<sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
+
+<sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
