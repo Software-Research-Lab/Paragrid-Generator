@@ -25,7 +25,7 @@ Intelligent systems and robotics laboratory**
  - [Generation and save](#Generation-and-save)
  - [Test demo app](#Test-demo-app)
 
-📌[Paragrid NN-Topology processing presets output catalog](https://github.com/ladooniani/paragrid/blob/main/markups/paragrid-presets.md) 
+📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
 
 ## Paragrid
 
@@ -35,7 +35,7 @@ Intelligent systems and robotics laboratory**
 
 1. [Download](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) Windows Installer and install "Paragrid" application on the computer 
   
- <img src="https://github.com/ladooniani/paragrid/blob/main/images/paragrid/paragrid-app-1.png" width="800">  
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-1.png" width="800">  
 
 ### Controls
 
@@ -47,7 +47,7 @@ Intelligent systems and robotics laboratory**
 
 4. Scroll track bars under **Center shift turn** label, to shift circles center spin axis by **X** and **Y** 
 
-<!--- <img src="https://github.com/ladooniani/Markups/blob/main/images/paragrid/paragrid-app-2.png" width="800"> --->
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-1.png" width="800">
 
 ### Setting
 
