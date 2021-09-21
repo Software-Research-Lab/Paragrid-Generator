@@ -122,7 +122,7 @@ Provides a parametric display of separate nodes, value and connection visual ide
 
 3. Use **Line width** for line width preset. 
 
-### Output
+### Output:
  
 The generation output object formation consists of transpassing connection lines and flare of separate nodes firing with randomization of color value and structural parameters variable.
  
