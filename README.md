@@ -24,6 +24,8 @@ Intelligent systems and robotics laboratory**
  - [Control property](#Control-property)
  - [Generation and save](#Generation-and-save)
  - [Structure](#Structure)
+ - [NN-Topology](#NN-Topology)
+ - [Butterfly-net](#Butterfly-net)
  - [Test demo app](#Test-demo-app)
 
 📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
@@ -109,6 +111,11 @@ Intelligent systems and robotics laboratory**
 ### NN-Topology
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">
+
+ 
+### Butterfly-net
+
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-3.png" width="800">
 
 #
 
