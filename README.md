@@ -22,6 +22,7 @@ Intelligent systems and robotics laboratory**
  - [Structural identification option](#Structural-identification-option)
  - [Design effect](#Design-effect)
  - [Control property](#Control-property)
+ - [Setup](#Setup)
  - [Generation and save](#Generation-and-save)
  - [Structure](#Structure)
  - [NN-Topology](#NN-Topology)
@@ -84,21 +85,31 @@ Intelligent systems and robotics laboratory**
 
 #
 
+#### Setup
+
+1. **Select structure** from the drop-down list.
+
+##### NN-Topology
+
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">
+
+1. Select generation processing preset from the drop-down list.
+
+✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
+
+#
+
 #### Generation and save
 
 1. Change numeric up-down number value under **Number** label to set the number of generations for image file output.
  
 2. Check or uncheck **JPG** and **PNG** checkbox to set output image file formats. 
 
-3. Select generation processing preset from the drop-down list.
-
-✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
-
-4. Click **Generate** button to generate image files according **Number** value.
+3. Click **Generate** button to generate image files according **Number** value.
 
 ✔️ Note: To generate files check one or both **JPG** and **PNG** output image file formats.
 
-5. To save actual grid image, click **Save image** and **Open Folder** to open Project folder 📁 directory by path C:/Users/User/AppData/Roaming/Tailab/Paragrid/Output
+4. To save actual grid image, click **Save image** and **Open Folder** to open Project folder 📁 directory by path C:/Users/User/AppData/Roaming/Tailab/Paragrid/Output
 
 #
 
