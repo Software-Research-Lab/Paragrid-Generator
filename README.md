@@ -122,7 +122,7 @@ Provides a parametric display of separate nodes, value and connection visual ide
 
 3. Use **Line width** for line width preset. 
 
-#### Output
+### Output
  
 The generation output object formation consists of transpassing connection lines and flare of separate nodes firing with randomization of color value and structural parameters variable.
  
@@ -134,15 +134,21 @@ The generation output object formation consists of transpassing connection lines
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
 
-### Butterfly-net-setup
+### Swamp-lily-setup
 
 1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
 
 2. Select **Swamp-lily** model from the right **Select preset** drop-down list.
 
+### Swamp-lily-setting
 
+1. Uncheck **Flower/insect** radio button in **Setting** group box to switch from single root levels combination processing mode to separate **Flower** mode.
 
+### Swamp-lily-controls
 
+1. Change numeric up-down number value under **Density A** label to set number of orbits
+
+1. Change numeric up-down number value under **Radius A** label to set overall radius of the structure
 
 
 
