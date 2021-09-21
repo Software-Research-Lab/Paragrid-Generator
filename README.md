@@ -18,15 +18,8 @@ Intelligent systems and robotics laboratory**
 
  - [How to use](#How-to-use)
  - [Controls](#Controls)
- - [Setting](#Setting)
- - [Structural identification option](#Structural-identification-option)
- - [Design effect](#Design-effect)
- - [Control property](#Control-property)
- - [Save](#Save)
- - [Setup](#Setup)
+ - [Setting](#Setting)  
  - [Structure](#Structure)
- - [NN-Topology](#NN-Topology)
- - [Butterfly-net](#Butterfly-net)
  - [Test demo app](#Test-demo-app)
 
 ## Paragrid
@@ -50,6 +43,14 @@ Intelligent systems and robotics laboratory**
 4. Scroll track bars under **Center shift turn** label, to shift circles center spin axis by **X** and **Y** 
 
 ### Setting
+
+### ✔️ Content
+
+ - [Structural identification option](#Structural-identification-option)
+ - [Design effect](#Design-effect)
+ - [Control property](#Control-property)
+ - [Save](#Save)
+ - [Setup](#Setup)
 
 #### Structural identification option
 
@@ -97,11 +98,16 @@ Intelligent systems and robotics laboratory**
 
 ✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
 
-### Display option
+#### Display option
 
 1. To resize the display screen, click **Screen on/off** button
 
 # Structure
+
+### ✔️ Content
+
+ - [NN-Topology](#NN-Topology)
+ - [Butterfly-net](#Butterfly-net)
 
 ## NN-Topology
 
