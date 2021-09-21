@@ -115,7 +115,7 @@ Intelligent systems and robotics laboratory**
  
 ### Butterfly-net
 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-3.png" width="800">
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
 
 #
 
