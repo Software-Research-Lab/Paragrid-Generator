@@ -12,9 +12,7 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) NN-Topology structure 
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img9.jpg)
-
- <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">  
+<!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img9.jpg) --->
 
 ## NN-Topology presets output
 
