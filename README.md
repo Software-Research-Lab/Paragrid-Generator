@@ -29,8 +29,6 @@ Intelligent systems and robotics laboratory**
  - [Butterfly-net](#Butterfly-net)
  - [Test demo app](#Test-demo-app)
 
-📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
-
 ## Paragrid
 
 "Paragrid" desktop application provides data parametric grid sequencer control, matrix processing graph visualization generator, structure build settings and presets with image file unique series output. 
@@ -107,11 +105,12 @@ Intelligent systems and robotics laboratory**
 
 ## NN-Topology
 
-Graphical matrix, based on the topological structure of a neural network (without intermediate hidden layers of neurons) with connections between all nodes of the input layer directly to each node of the output, and control of separate node, connection, and skeleton 
-
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">
 
+ Graphical matrix, based on the topological structure of a neural network (without intermediate hidden layers of neurons) with connections between all nodes of the input layer directly to each node of the output, and control of separate node, connection, and skeleton.
  
+📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
+
 ## Butterfly-net
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
