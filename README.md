@@ -143,6 +143,8 @@ The graphical structure represents a centralized graphic map radial propagation 
  - [Swamp-lily-setting](#Swamp-lily-setting)
  - [Swamp-lily-controls](#Swamp-lily-controls)
 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-5.png" width="800">
+
 ### Swamp-lily-setup
 
 1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
@@ -163,7 +165,6 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 ### Swamp-lily
 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-5.png" width="800">
 
 ### Dragonfly
 
