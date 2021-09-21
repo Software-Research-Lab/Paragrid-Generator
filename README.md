@@ -85,16 +85,6 @@ Intelligent systems and robotics laboratory**
 
 #
 
-#### Setup
-
-1. **Select structure** from the left drop-down list.
-
-2. **Select preset** generation processing preset or model from the right drop-down list.
-
-✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
-
-#
-
 #### Generation and save
 
 1. Change numeric up-down number value under **Number** label to set the number of generations for image file output.
@@ -112,6 +102,16 @@ Intelligent systems and robotics laboratory**
 #### Display option
 
 1. To resize the display screen, click **Screen on/off** button
+
+### Setup
+
+1. **Select structure** from the left drop-down list.
+
+2. **Select preset** generation processing preset or model from the right drop-down list.
+
+✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
+
+#
 
 # Structure
 
