@@ -113,6 +113,8 @@ Provides a parametric display of separate nodes, value and connection visual ide
 
 The generation output object formation consists of transpassing connection lines and flare of separate nodes firing with propagation and randomization of color value and structural parameters variables.
  
+#### Preset output
+ 
 📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
 
 ## Butterfly-net
