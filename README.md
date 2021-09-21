@@ -101,9 +101,9 @@ Intelligent systems and robotics laboratory**
 
 1. To resize the display screen, click **Screen on/off** button.
 
-2. Check generation series processing time PT: 00:00:00:0 with a blue indicator in the lower-left corner of the **Controls** group box frame.
+2. Check generation series processing time **PT: 00:00:00:0** with a blue indicator in the lower-left corner of the **Controls** group box frame.
 
-✔️ Note: Click indicator to switch processing time with extended format S seconds, M milliseconds, N nanoseconds.
+✔️ Note: Click indicator to switch processing time with extended format **S** seconds, **M** milliseconds, **N** nanoseconds.
 
 # Structure
 
