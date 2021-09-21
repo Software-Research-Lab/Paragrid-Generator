@@ -160,7 +160,13 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 1. Change numeric up-down number value under **Density A** label to set number of orbits
 
-1. Change numeric up-down number value under **Radius A** label to set overall radius of the structure
+2. Change numeric up-down number value under **Radius A** label to set overall radius of the structure
+
+### Swamp-lily-preset
+
+1. In **Controls** group box, set numeric up-down number value under **Preset range min/max** label for the first **of** pair left-minimun and right-maximum to set **Flower** orbits **Density** number possibility range for generation series.
+
+2. Set numeric up-down number value under **Preset range min/max** label for the second **rf** pair left-minimun and right-maximum values to set **Flower** radius size number possibility range for generation series.
 
 ### Swamp-lily-save
 
@@ -168,7 +174,15 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 2. Save actual generation, or select the image format and number of output files, then click the **Generate** drop button and open the project file directory 
 
- 
+
+
+
+
+
+
+
+
+
 
 ### Dragonfly
 
