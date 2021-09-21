@@ -117,6 +117,18 @@ Intelligent systems and robotics laboratory**
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
 
+#### Swamp-lily
+
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-5.png" width="800">
+
+#### Dragonfly
+
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-3.png" width="800">
+
+#### Flower and insect
+
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-4.png" width="800">
+
 #
 
 ### Test demo app
