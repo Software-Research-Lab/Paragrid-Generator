@@ -17,10 +17,6 @@ Intelligent systems and robotics laboratory**
 ### ✔️ Content
 
  - [How to use](#How-to-use)
- - [Controls](#Controls)
- - [Setting](#Setting)  
- - [Save](#Save)
- - [Setup](#Setup)
  - [Structure](#Structure)
  - [Test demo app](#Test-demo-app)
 
@@ -29,6 +25,11 @@ Intelligent systems and robotics laboratory**
 "Paragrid" desktop application provides data parametric grid sequencer control, matrix processing graph visualization generator, structure build settings and presets with image file unique series output. 
 
 ## How to use
+
+ - [Controls](#Controls)
+ - [Setting](#Setting)  
+ - [Save](#Save)
+ - [Setup](#Setup)
 
 1. [Download](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) Windows Installer and install "Paragrid" application on the computer 
   
