@@ -130,9 +130,18 @@ The generation output object formation consists of transpassing connection lines
 
 ## Butterfly-net
 
+ - [Swamp-lily-model](#Swamp-lily-model)
+ - [Dragonfly-model](#Dragonfly-model)
+
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
+
+## Swamp-lily-model
+
+ - [Swamp-lily-setup](#Swamp-lily-setup)
+ - [Swamp-lily-setting](#Swamp-lily-setting)
+ - [Swamp-lily-controls](#Swamp-lily-controls)
 
 ### Swamp-lily-setup
 
