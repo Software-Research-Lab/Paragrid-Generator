@@ -23,6 +23,7 @@ Intelligent systems and robotics laboratory**
  - [Design effect](#Design-effect)
  - [Control property](#Control-property)
  - [Generation and save](#Generation-and-save)
+ - [Structure](#Structure)
  - [Test demo app](#Test-demo-app)
 
 📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
@@ -104,6 +105,8 @@ Intelligent systems and robotics laboratory**
 #### Display option
 
 1. To resize the display screen, click **Screen on/off** button
+
+## Structure
 
 #
 
