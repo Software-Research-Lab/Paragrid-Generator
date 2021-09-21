@@ -19,6 +19,8 @@ Intelligent systems and robotics laboratory**
  - [How to use](#How-to-use)
  - [Controls](#Controls)
  - [Setting](#Setting)  
+ - [Save](#Save)
+ - [Setup](#Setup)
  - [Structure](#Structure)
  - [Test demo app](#Test-demo-app)
 
@@ -44,13 +46,9 @@ Intelligent systems and robotics laboratory**
 
 ### Setting
 
-### ✔️ Content
-
  - [Structural identification option](#Structural-identification-option)
  - [Design effect](#Design-effect)
  - [Control property](#Control-property)
- - [Save](#Save)
- - [Setup](#Setup)
 
 #### Structural identification option
 
@@ -103,8 +101,6 @@ Intelligent systems and robotics laboratory**
 1. To resize the display screen, click **Screen on/off** button
 
 # Structure
-
-### ✔️ Content
 
  - [NN-Topology](#NN-Topology)
  - [Butterfly-net](#Butterfly-net)
