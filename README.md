@@ -48,8 +48,6 @@ Intelligent systems and robotics laboratory**
 
 4. Scroll track bars under **Center shift turn** label, to shift circles center spin axis by **X** and **Y** 
 
-<!--- <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800"> --->
-
 ### Setting
 
 #### Structural identification option
@@ -107,6 +105,10 @@ Intelligent systems and robotics laboratory**
 1. To resize the display screen, click **Screen on/off** button
 
 ## Structure
+
+### NN-Topology
+
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">
 
 #
 
