@@ -79,7 +79,11 @@ Intelligent systems and robotics laboratory**
 
 1. Check or uncheck **Shift centers/Single** to switch from polarized divergence to single shift of the circle center by XY of **Center shift turn** control 
 
-#### Generation and save
+#### Display option
+
+1. To resize the display screen, click **Screen on/off** button
+
+### Save
 
 1. Change numeric up-down number value under **Number** label to set the number of generations for image file output.
  
@@ -90,10 +94,6 @@ Intelligent systems and robotics laboratory**
 ✔️ Note: To generate files check one or both **JPG** and **PNG** output image file formats.
 
 4. To save actual grid image, click **Save image** and **Open Folder** to open Project folder 📁 directory by path C:/Users/User/AppData/Roaming/Tailab/Paragrid/Output
-
-#### Display option
-
-1. To resize the display screen, click **Screen on/off** button
 
 ### Setup
 
