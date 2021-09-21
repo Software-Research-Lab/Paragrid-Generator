@@ -142,6 +142,7 @@ The graphical structure represents a centralized graphic map radial propagation 
  - [Swamp-lily-setup](#Swamp-lily-setup)
  - [Swamp-lily-setting](#Swamp-lily-setting)
  - [Swamp-lily-controls](#Swamp-lily-controls)
+ - [Swamp-lily-save](#Swamp-lily-save)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-5.png" width="800">
 
@@ -161,10 +162,13 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 1. Change numeric up-down number value under **Radius A** label to set overall radius of the structure
 
+### Swamp-lily-save
 
+1. Uncheck **Structure on/off** radio button to turn of structural view mode.
 
-### Swamp-lily
+2. Save actual generation, or select the image format and number of output files, then click the **Generate** drop button and open the project file directory 
 
+ 
 
 ### Dragonfly
 
