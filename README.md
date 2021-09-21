@@ -87,13 +87,9 @@ Intelligent systems and robotics laboratory**
 
 #### Setup
 
-1. **Select structure** from the drop-down list.
+1. **Select structure** from the left drop-down list.
 
-##### NN-Topology
-
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">
-
-1. Select generation processing preset from the drop-down list.
+2. **Select preset** generation processing preset or model from the right drop-down list.
 
 ✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
 
@@ -117,26 +113,26 @@ Intelligent systems and robotics laboratory**
 
 1. To resize the display screen, click **Screen on/off** button
 
-## Structure
+# Structure
 
-### NN-Topology
+## NN-Topology
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">
 
  
-### Butterfly-net
+## Butterfly-net
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
 
-#### Swamp-lily
+### Swamp-lily
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-5.png" width="800">
 
-#### Dragonfly
+### Dragonfly
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-3.png" width="800">
 
-#### Flower and insect
+### Flower and insect
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-4.png" width="800">
 
