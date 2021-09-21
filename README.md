@@ -65,8 +65,6 @@ Intelligent systems and robotics laboratory**
 
 4. Change numeric up-down number value under **NFA** and **NFB** label to fire neuron index with second layer connections
 
-#
-
 #### Design effect
 
 1. Check or uncheck **Structure on/off** radio button to use **Center colors off/on** option to add central core inclusion colors transfusion.
@@ -77,13 +75,9 @@ Intelligent systems and robotics laboratory**
 
 3. Change numeric up-down number value under **Line width** label to increase/decrease network connection line width
 
-#
-
 #### Control property
 
 1. Check or uncheck **Shift centers/Single** to switch from polarized divergence to single shift of the circle center by XY of **Center shift turn** control 
-
-#
 
 #### Generation and save
 
@@ -97,8 +91,6 @@ Intelligent systems and robotics laboratory**
 
 4. To save actual grid image, click **Save image** and **Open Folder** to open Project folder 📁 directory by path C:/Users/User/AppData/Roaming/Tailab/Paragrid/Output
 
-#
-
 #### Display option
 
 1. To resize the display screen, click **Screen on/off** button
@@ -110,8 +102,6 @@ Intelligent systems and robotics laboratory**
 2. **Select preset** generation processing preset or model from the right drop-down list.
 
 ✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
-
-#
 
 # Structure
 
