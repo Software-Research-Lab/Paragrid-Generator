@@ -22,7 +22,7 @@ Intelligent systems and robotics laboratory**
  - [Structural identification option](#Structural-identification-option)
  - [Design effect](#Design-effect)
  - [Control property](#Control-property)
- - [Generation and save](#Generation-and-save)
+ - [Save](#Save)
  - [Setup](#Setup)
  - [Structure](#Structure)
  - [NN-Topology](#NN-Topology)
