@@ -79,10 +79,6 @@ Intelligent systems and robotics laboratory**
 
 1. Check or uncheck **Shift centers/Single** to switch from polarized divergence to single shift of the circle center by XY of **Center shift turn** control 
 
-#### Display option
-
-1. To resize the display screen, click **Screen on/off** button
-
 ### Save
 
 1. Change numeric up-down number value under **Number** label to set the number of generations for image file output.
@@ -102,6 +98,10 @@ Intelligent systems and robotics laboratory**
 2. **Select preset** generation processing preset or model from the right drop-down list.
 
 ✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
+
+### Display option
+
+1. To resize the display screen, click **Screen on/off** button
 
 # Structure
 
