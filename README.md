@@ -61,6 +61,8 @@ Intelligent systems and robotics laboratory**
 
 3. Check or uncheck **Hide/Show center link** radio button to hide or display the common center link with circles centers and nodes, and nodes connection. 
 
+4. Change numeric up-down number value under **NFA** and **NFB** label to fire neuron index with second layer connections
+
 #
 
 #### Design effect
@@ -70,8 +72,6 @@ Intelligent systems and robotics laboratory**
 ✔️ Note: Effect activated with **Center shift turn** 0 **X** and **Y** value.
 
 2. Check or uncheck **Structure on/off** radio button to use **Grid colors on/off** radio button option to add random color to network structure connection.
-
-✔️ Note: To use effects for generetion series design setting, uncheck **Hide/Show node units** and **Hide/Show center link** structural identification options.
 
 3. Change numeric up-down number value under **Line width** label to increase/decrease network connection line width
 
