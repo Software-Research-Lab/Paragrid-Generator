@@ -114,6 +114,14 @@ The graphical matrix, based on the topological structure of a neural network wit
 
 Provides a parametric display of separate nodes, value and connection visual identification, structure building, and skeleton form controls.
 
+### NN-Topology-setup
+
+1. Select **NN-Topology** structure from the left **Select structure** drop-down list.
+
+2. **Select preset** generation processing preset from the right drop-down list.
+
+3. Use **Line width** for line width preset. 
+
 #### Output
  
 The generation output object formation consists of transpassing connection lines and flare of separate nodes firing with randomization of color value and structural parameters variable.
@@ -122,11 +130,23 @@ The generation output object formation consists of transpassing connection lines
 
 ## Butterfly-net
 
+ - [Butterfly-net-setup](#Butterfly-net-setup)
+ 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
 
-Provides a parametric display of separate nodes, value and connection visual identification, structure building, and skeleton form controls.
+### Butterfly-net-setup
+
+1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
+
+2. Select **Swamp-lily** model from the right **Select preset** drop-down list.
+
+
+
+
+
+
 
 ### Swamp-lily
 
