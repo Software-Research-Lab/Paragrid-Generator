@@ -110,6 +110,8 @@ Intelligent systems and robotics laboratory**
 The graphical matrix, based on the topological structure of a neural network with connections between all nodes of the input layer directly to each node of the output. 
 
 Provides a parametric display of separate nodes, value and connection visual identification, structure building, and skeleton form controls.
+
+The generation output object formation consists of transpassing connection lines and flare of separate nodes firing with propagation and randomization of color value and structural parameters variables.
  
 📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
 
