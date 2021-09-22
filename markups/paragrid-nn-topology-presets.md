@@ -18,6 +18,8 @@ Intelligent systems and robotics laboratory**
 
 <!--- Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails --->
 
+📌 [Read about NN-Topology structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-structure.md)
+
 Explore the deep labyrinth of the cave by digging and collecting magnificent inclusions, rare, unique, unpredictable, and magic objects from an endless ocean of natural randomness of diversity and hypnotic geometry of "artificial dreams generator" output. 
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
