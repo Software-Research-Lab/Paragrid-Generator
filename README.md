@@ -215,7 +215,7 @@ The graphical structure represents a centralized graphic map radial propagation 
  
 5. Set value for (the fifth available from the top numeric up-down) **"ci"** min/max pair to set **CIF** color intensity filter value possibility range. 
 
-### Flower and insect combination
+## Flower and insect combination
 
  - [Flower and insect setup](#Flower-and-insect-setup)
  - [Flower and insect setting](#Flower-and-insect-setting)
