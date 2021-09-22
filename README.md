@@ -107,11 +107,15 @@ Intelligent systems and robotics laboratory**
 
 # Structure and preset
 
- - [NN-Topology](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-structure.md)
- - [Butterfly-net](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-structure.md)
+#### Structures
 
-📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-presets.md) 
-📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-presets.md) 
+💧[NN-Topology](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-structure.md)
+💧[Butterfly-net](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-structure.md)
+
+#### Presets
+
+❄️[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-presets.md)
+❄️[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-presets.md) 
 
 #
 
