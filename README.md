@@ -143,7 +143,7 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 ### Output:
  
-The generation output object formation consists of single root radial 360 degree orbital propagation with overall radius transformation coordinates.
+The generation output object formation consists of overall radius for single root radial 360-degree graphic coordinate orbital propagation of insect transformer structure.
  
 📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
 
