@@ -12,13 +12,9 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Butterfly-net structure presets output
 
- 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img8.jpg)
 
-
-Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails 
-
-Explore the deep labyrinth of the cave by digging and collecting magnificent inclusions, rare, unique, unpredictable, and magic objects from an endless ocean of natural randomness of diversity and hypnotic geometry of "artificial dreams generator" output. 
+Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails. 
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
