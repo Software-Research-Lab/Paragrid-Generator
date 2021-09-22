@@ -118,7 +118,7 @@ The graphical matrix, based on the topological structure of a neural network wit
 
 Provides a parametric display of separate nodes, value and connection visual identification, structure building, and skeleton form controls.
 
-## NN-Topology-setup
+### NN-Topology-setup
 
 1. Select **NN-Topology** structure from the left **Select structure** drop-down list.
 
