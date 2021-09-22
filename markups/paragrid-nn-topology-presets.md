@@ -22,8 +22,6 @@ Explore the deep labyrinth of the cave by digging and collecting magnificent inc
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
-Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the topological structure of a neural network: 
-
 ## Biomes generation artifact archive
 
 ### Quartzgate
