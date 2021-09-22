@@ -21,13 +21,14 @@ The graphical matrix, based on the topological structure of a neural network wit
 
 Provides a parametric display of separate nodes, value and connection visual identification, structure building, and skeleton form controls.
 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">
+
 ### Output:
  
 The generation output object formation consists of transpassing connection lines and flare of separate nodes firing with randomization of color value and structural parameters variable.
  
 📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-presets.md) 
 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-2.png" width="800">
 
 ### NN-Topology-setup
 
