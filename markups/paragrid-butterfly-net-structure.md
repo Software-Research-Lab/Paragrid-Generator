@@ -20,6 +20,7 @@ Intelligent systems and robotics laboratory**
 
  - [Swamp lily model](#Swamp-lily-model)
  - [Dragonfly model](#Dragonfly-model)
+ - [Flower and insect combination](#Flower-and-insect-combination)
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
 
