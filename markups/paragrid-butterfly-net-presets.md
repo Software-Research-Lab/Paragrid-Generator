@@ -22,11 +22,17 @@ Explore the deep labyrinth of the cave by digging and collecting magnificent inc
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
-Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the topological structure of a neural network: 
-
 ## Biomes generation artifact archive
 
-### Quartzgate
+### Swamp-lily
+
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-quartzgate-example.png)
+
+### Dragonfly
+
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-quartzgate-example.png)
+
+### Flower and insect combination
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-quartzgate-example.png)
 
