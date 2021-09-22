@@ -22,6 +22,8 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ### Swamp-lily
 
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-swamp-lily-example-1.png)
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-swamp-lily-example-2.png)
 
 ### Dragonfly
