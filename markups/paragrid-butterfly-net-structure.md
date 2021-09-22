@@ -29,9 +29,10 @@ The graphical structure represents a centralized graphic map radial propagation 
 ### Output:
  
 The generation output object formation consists of overall radius for single root radial 360-degree graphic coordinate orbital propagation of insect transformer structure.
+
+Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the butterfly-net radial structure:
  
 ### 📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-presets.md) 
-
 
 ## Swamp lily model
 
