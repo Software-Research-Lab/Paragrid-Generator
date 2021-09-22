@@ -17,7 +17,7 @@ Intelligent systems and robotics laboratory**
 ### ✔️ Content
 
  - [How to use](#How-to-use)
- - [Structure](#Structure)
+ - [Structure and preset](#Structure-and-preset)
  - [Test demo app](#Test-demo-app)
 
 ## Paragrid
@@ -105,12 +105,13 @@ Intelligent systems and robotics laboratory**
 
 ✔️ Note: Click indicator to switch processing time with extended format **S** seconds, **M** milliseconds, **N** nanoseconds.
 
-# Structure
+# Structure and preset
 
  - [NN-Topology](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-structure.md)
  - [Butterfly-net](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-structure.md)
 
-
+📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-presets.md) 
+📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-presets.md) 
 
 #
 
