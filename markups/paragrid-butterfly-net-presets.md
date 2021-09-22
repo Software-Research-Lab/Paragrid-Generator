@@ -53,7 +53,20 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ### Flower and insect combination
 
-![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-quartzgate-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(1).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(2).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(3).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(4).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(5).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(6).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(7).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(8).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(9).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(10).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(11).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(12).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(13).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-swamp-lily-example-(14).jpg)
 
 ## 💖 Support project
 
