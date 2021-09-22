@@ -31,13 +31,13 @@ The generation output object formation consists of transpassing connection lines
 
 ### NN-Topology-setup
 
+✔️ [Read about how to use NN-Topology default structure controls](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc#How-to-use)
+
 1. Select **NN-Topology** structure from the left **Select structure** drop-down list.
 
 2. **Select preset** generation processing preset from the right drop-down list.
 
 3. Use **Line width** for line width preset. 
-
-
 
 ## 💖 Support project
 
