@@ -31,7 +31,7 @@ The generation output object formation consists of transpassing connection lines
 
 ### NN-Topology-setup
 
-✔️ [Read about how to use NN-Topology default structure controls](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc#How-to-use)
+❔ [Read about how to use NN-Topology default structure controls](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc#How-to-use)
 
 1. Select **NN-Topology** structure from the left **Select structure** drop-down list.
 
