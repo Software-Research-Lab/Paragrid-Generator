@@ -53,9 +53,9 @@ Intelligent systems and robotics laboratory**
 
 #### Structural identification option
 
-1. Check or uncheck **Structure on/off** radio button to switch from structural layer circles and node points to clear grid view.
+1. Check/uncheck **Structure on/off** radio button to switch from structural view mode with layer circles and node points to clear grid view. 
 
-✔️ Note: **Structure off** condition provides adding of **Center colors on/off** and **Grid colors on/off** presets design option.
+✔️ Note: Use this option to turn on/off structural view mode for saving and generation. **Structure off** condition provides adding of **Center colors on/off** and **Grid colors on/off** presets design option.
 
 2. Check or uncheck **Hide/Show node units** radio button to hide or display nodes id numbers and count.
 
@@ -83,7 +83,7 @@ Intelligent systems and robotics laboratory**
  
 2. Check or uncheck **JPG** and **PNG** checkbox to set output image file formats. 
 
-3. Click **Generate** button to generate image files according **Number** value.
+3. Click **Generate** drop button to generate image files according **Number** value.
 
 ✔️ Note: To generate files check one or both **JPG** and **PNG** output image file formats.
 
@@ -172,12 +172,6 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 2. Set numeric up-down number value under **Preset range min/max** label for the second **"rf"** pair left-minimun and right-maximum values to set **Flower** radius size number possibility range for generation series.
 
-### Swamp-lily-save
-
-1. Uncheck **Structure on/off** radio button to turn of structural view mode.
-
-2. Save actual generation, or select the image format and number of output files, then click the **Generate** drop button and open the project file directory 
-
 ## Dragonfly-model
 
  - [Dragonfly-setup](#Dragonfly-setup)
@@ -215,9 +209,13 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 2. Set numeric up-down number value under **Preset range min/max** label for the second **"ri"** pair left-minimun and right-maximum values to set **Insect** radius size number possibility range for generation series.
 
+3. Set value for (the third available from the top numeric up-down) **"w"** pair left-minimun and right-maximum values to set **Wing width** radial parallel rays number possibility range.
+ 
+4. Set value for (the fourth available from the top numeric up-down) **"t"** min/max pair to set **Tail angle** position degree number possibility range. 
+ 
+5. Set value for (the fifth available from the top numeric up-down) **"ci"** min/max pair to set **CIF** color intensity filter value possibility range. 
 
-
-
+ 
 
 ### Flower and insect
 
