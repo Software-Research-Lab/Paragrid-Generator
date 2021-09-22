@@ -141,6 +141,12 @@ The generation output object formation consists of transpassing connection lines
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
 
+### Output:
+ 
+The generation output object formation consists of single root radial 360 degree orbital propagation with overall radius transformation coordinates.
+ 
+📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
+
 ## Swamp lily model
 
  - [Swamp lily setup](#Swamp-lily-setup)
