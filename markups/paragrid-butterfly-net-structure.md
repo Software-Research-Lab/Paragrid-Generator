@@ -16,20 +16,10 @@ Intelligent systems and robotics laboratory**
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img8.jpg)
 
-
-
-
-
-
-
-
-
 ## Butterfly-net
 
  - [Swamp lily model](#Swamp-lily-model)
  - [Dragonfly model](#Dragonfly-model)
-
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
 
@@ -38,6 +28,8 @@ The graphical structure represents a centralized graphic map radial propagation 
 The generation output object formation consists of overall radius for single root radial 360-degree graphic coordinate orbital propagation of insect transformer structure.
  
 📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-presets.md) 
+
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
 
 ## Swamp lily model
 
