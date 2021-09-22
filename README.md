@@ -203,9 +203,17 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 4. Scroll track bar on the left of the **CIF** label, to increase/decrease the color intensity filter of wing pattern coloring.    
 
+### Dragonfly-controls
 
+1. Change numeric up-down number value under **Density B** label to set number of orbits
 
+2. Change numeric up-down number value under **Radius B** label to set overall radius of the structure
 
+### Dragonfly-preset
+
+1. In **Controls** group box, set numeric up-down number value under **Preset range min/max** label for the first available **"oi"** pair left-minimun and right-maximum to set **Insect** orbits **Density** number possibility range for generation series.
+
+2. Set numeric up-down number value under **Preset range min/max** label for the second **"ri"** pair left-minimun and right-maximum values to set **Insect** radius size number possibility range for generation series.
 
 
 
