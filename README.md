@@ -141,7 +141,7 @@ The generation output object formation consists of transpassing connection lines
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
 
-## Swamp-lily-model
+### Swamp-lily-model
 
  - [Swamp-lily-setup](#Swamp-lily-setup)
  - [Swamp-lily-setting](#Swamp-lily-setting)
@@ -150,35 +150,35 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-5.png" width="800">
 
-### Swamp-lily-setup
+#### Swamp-lily-setup
 
 1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
 
 2. Select **Swamp-lily** model from the right **Select preset** drop-down list.
 
-### Swamp-lily-setting
+#### Swamp-lily-setting
 
 1. Uncheck **Flower/insect** radio button in **Setting** group box to switch from single root levels combination processing mode to separate **Flower** mode.
 
-### Swamp-lily-controls
+#### Swamp-lily-controls
 
 1. Change numeric up-down number value under **Density A** label to set number of orbits
 
 2. Change numeric up-down number value under **Radius A** label to set overall radius of the structure
 
-### Swamp-lily-preset
+#### Swamp-lily-preset
 
 1. In **Controls** group box, set numeric up-down number value under **Preset range min/max** label for the first **"of"** pair left-minimun and right-maximum to set **Flower** orbits **Density** number possibility range for generation series.
 
 2. Set numeric up-down number value under **Preset range min/max** label for the second **"rf"** pair left-minimun and right-maximum values to set **Flower** radius size number possibility range for generation series.
 
-### Swamp-lily-save
+#### Swamp-lily-save
 
 1. Uncheck **Structure on/off** radio button to turn of structural view mode.
 
 2. Save actual generation, or select the image format and number of output files, then click the **Generate** drop button and open the project file directory 
 
-## Dragonfly-model
+### Dragonfly-model
 
  - [Dragonfly-setup](#Dragonfly-setup)
  - [Dragonfly-setting](#Dragonfly-setting)
@@ -187,13 +187,13 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-3.png" width="800">
 
-# Dragonfly-setup
+#### Dragonfly-setup
 
 1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
 
 2. Select **Dragonfly** model from the right **Select preset** drop-down list.
 
-### Dragonfly-setting
+#### Dragonfly-setting
 
 1. Change numeric up-down number value under **Tail angle** label to set position degree for insect body setting control.
 
