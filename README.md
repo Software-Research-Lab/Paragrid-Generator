@@ -134,60 +134,60 @@ The generation output object formation consists of transpassing connection lines
 
 # Butterfly-net
 
- - [Swamp-lily-model](#Swamp-lily-model)
- - [Dragonfly-model](#Dragonfly-model)
+ - [Swamp lily model](#Swamp-lily-model)
+ - [Dragonfly model](#Dragonfly-model)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
 
-## Swamp-lily-model
+## Swamp lily model
 
- - [Swamp-lily-setup](#Swamp-lily-setup)
- - [Swamp-lily-setting](#Swamp-lily-setting)
- - [Swamp-lily-controls](#Swamp-lily-controls)
- - [Swamp-lily-save](#Swamp-lily-save)
+ - [Swamp lily setup](#Swamp-lily-setup)
+ - [Swamp lily setting](#Swamp-lily-setting)
+ - [Swamp lily controls](#Swamp-lily-controls)
+ - [Swamp lily preset](#Swamp-lily-preset)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-5.png" width="800">
 
-### Swamp-lily-setup
+### Swamp lily setup
 
 1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
 
 2. Select **Swamp-lily** model from the right **Select preset** drop-down list.
 
-### Swamp-lily-setting
+### Swamp lily setting
 
 1. Uncheck **Flower/insect** radio button in **Setting** group box to switch from single root levels combination processing mode to separate **Flower** mode.
 
-### Swamp-lily-controls
+### Swamp lily controls
 
 1. Change numeric up-down number value under **Density A** label to set number of orbits
 
 2. Change numeric up-down number value under **Radius A** label to set overall radius of the structure
 
-### Swamp-lily-preset
+### Swamp lily preset
 
 1. In **Controls** group box, set numeric up-down number value under **Preset range min/max** label for the first **"of"** pair left-minimun and right-maximum to set **Flower** orbits **Density** number possibility range for generation series.
 
 2. Set numeric up-down number value under **Preset range min/max** label for the second **"rf"** pair left-minimun and right-maximum values to set **Flower** radius size number possibility range for generation series.
 
-## Dragonfly-model
+## Dragonfly model
 
- - [Dragonfly-setup](#Dragonfly-setup)
- - [Dragonfly-setting](#Dragonfly-setting)
- - [Dragonfly-controls](#Dragonfly-controls)
- - [Dragonfly-save](#Dragonfly-save)
+ - [Dragonfly setup](#Dragonfly-setup)
+ - [Dragonfly setting](#Dragonfly-setting)
+ - [Dragonfly controls](#Dragonfly-controls)
+ - [Dragonfly preset](#Dragonfly-preset)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-3.png" width="800">
 
-### Dragonfly-setup
+### Dragonfly setup
 
 1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
 
 2. Select **Dragonfly** model from the right **Select preset** drop-down list.
 
-### Dragonfly-setting
+### Dragonfly setting
 
 1. Change numeric up-down number value under **Tail angle** label to set position degree for insect body setting control.
 
@@ -197,13 +197,13 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 4. Scroll track bar on the left of the **CIF** label, to increase/decrease the color intensity filter of wing pattern coloring.    
 
-### Dragonfly-controls
+### Dragonfly controls
 
 1. Change numeric up-down number value under **Density B** label to set number of orbits
 
 2. Change numeric up-down number value under **Radius B** label to set overall radius of the structure
 
-### Dragonfly-preset
+### Dragonfly preset
 
 1. In **Controls** group box, set numeric up-down number value under **Preset range min/max** label for the first available **"oi"** pair left-minimun and right-maximum to set **Insect** orbits **Density** number possibility range for generation series.
 
@@ -215,11 +215,22 @@ The graphical structure represents a centralized graphic map radial propagation 
  
 5. Set value for (the fifth available from the top numeric up-down) **"ci"** min/max pair to set **CIF** color intensity filter value possibility range. 
 
- 
+### Flower and insect combination
 
-### Flower and insect
+ - [Flower and insect setup](#Flower-and-insect-setup)
+ - [Flower and insect setting](#Flower-and-insect-setting)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-4.png" width="800">
+
+### Flower and insect setup
+
+1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
+
+2. Select **Swamp-lily** model from the right **Select preset** drop-down list.
+
+### Flower and insect setting
+
+1. Check **Flower/insect** radio button in **Setting** group box to switch from separate **Flower** mode to single root levels combination processing mode.
 
 #
 
