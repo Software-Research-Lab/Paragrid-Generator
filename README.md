@@ -130,7 +130,7 @@ Provides a parametric display of separate nodes, value and connection visual ide
  
 The generation output object formation consists of transpassing connection lines and flare of separate nodes firing with randomization of color value and structural parameters variable.
  
-📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
+📌[Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-presets.md) 
 
 # Butterfly-net
 
@@ -145,7 +145,7 @@ The graphical structure represents a centralized graphic map radial propagation 
  
 The generation output object formation consists of overall radius for single root radial 360-degree graphic coordinate orbital propagation of insect transformer structure.
  
-📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-presets.md) 
+📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-presets) 
 
 ## Swamp lily model
 
