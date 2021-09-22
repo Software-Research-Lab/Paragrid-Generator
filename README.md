@@ -178,19 +178,38 @@ The graphical structure represents a centralized graphic map radial propagation 
 
 2. Save actual generation, or select the image format and number of output files, then click the **Generate** drop button and open the project file directory 
 
+## Dragonfly-model
 
-
-
-
-
-
-
-
-
-
-### Dragonfly
+ - [Dragonfly-setup](#Dragonfly-setup)
+ - [Dragonfly-setting](#Dragonfly-setting)
+ - [Dragonfly-controls](#Dragonfly-controls)
+ - [Dragonfly-save](#Dragonfly-save)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-3.png" width="800">
+
+# Dragonfly-setup
+
+1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
+
+2. Select **Dragonfly** model from the right **Select preset** drop-down list.
+
+### Dragonfly-setting
+
+1. Change numeric up-down number value under **Tail angle** label to set position degree for insect body setting control.
+
+2. Change numeric up-down number value under **Wing width** label to set number of wing width radial parallel rays setting control.
+
+3. Change numeric up-down number value under **Width** label to set line width preset.
+
+4. Scroll track bar on the left of the **CIF** label, to increase/decrease the color intensity filter of wing pattern coloring.    
+
+
+
+
+
+
+
+
 
 ### Flower and insect
 
