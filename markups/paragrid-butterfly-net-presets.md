@@ -30,7 +30,18 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ### Dragonfly
 
-![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-quartzgate-example.png)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(1).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(2).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(3).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(4).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(5).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(6).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(7).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(8).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(9).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(10).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(11).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-butterfly-net-example-(12).jpg)
 
 ### Flower and insect combination
 
