@@ -94,6 +94,8 @@ Examples of the graphic output stream of unique series generation with parametri
 
 ✔️ Note: To save the image files with **Gene** mode, choose the format and click on **Generate** drop button. The **Build** mode also requires following manual saving action by clicking on **Save image** *diskette* button.
 
+✔️ Note: To save insect wings with a non-horizontal angle, press any arrow button to find position and click **Save image**
+
 ### Dragonfly controls
 
 1. Change numeric up-down number value under **Density B** label to set number of orbits
