@@ -88,7 +88,11 @@ Examples of the graphic output stream of unique series generation with parametri
 
 3. Change numeric up-down number value under **Width** label to set line width preset.
 
-4. Scroll track bar on the left of the **CIF** label, to increase/decrease the color intensity filter of wing pattern coloring.    
+4. Scroll track bar on the left of the **CIF** label, to increase/decrease the color intensity filter of wing pattern coloring.  
+
+5. Check or uncheck **Gene/Build** checkbox to switch from **Generate** mode, which uses **Preset range min/max** default or custom value possibility range preset setting for generation series, or **Build** mode, which uses preset from **Control** and **Setting** for actual single image creation.
+
+✔️ Note: If file **JPG** or **PNG** format is selected, the **Gene** mode saves the image file into the project directory using **Generate** drop button process. The **Build** mode also requires following manual saving action by clicking on **Save image** *diskette* button.
 
 ### Dragonfly controls
 
