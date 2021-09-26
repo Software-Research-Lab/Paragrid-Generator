@@ -104,15 +104,15 @@ Examples of the graphic output stream of unique series generation with parametri
 
 ### Dragonfly preset
 
-1. In **Controls** group box, set numeric up-down number value under **Preset range min/max** label for the first available **"oi"** pair left-minimun and right-maximum to set **Insect** orbits **Density** number possibility range for generation series.
+1. In **Controls** group box, set numeric up-down number value under **Preset range min/max** label for the first available **"oi"** pair left-minimun and right-maximum to set **Insect** orbits **Density** number of variation probability range limit for generation series.
 
-2. Set numeric up-down number value under **Preset range min/max** label for the second **"ri"** pair left-minimun and right-maximum values to set **Insect** radius size number possibility range for generation series.
+2. Set numeric up-down number value under **Preset range min/max** label for the second **"ri"** pair left-minimun and right-maximum values to set **Insect** radius size number of variation probability range limit for generation series.
 
-3. Set value for (the third available from the top numeric up-down) **"w"** pair left-minimun and right-maximum values to set **Wing width** radial parallel rays number possibility range.
+3. Set value for (the third available from the top numeric up-down) **"w"** pair left-minimun and right-maximum values to set **Wing width** radial parallel rays number of variation probability range limit.
  
-4. Set value for (the fourth available from the top numeric up-down) **"t"** min/max pair to set **Tail angle** position degree number possibility range. 
+4. Set value for (the fourth available from the top numeric up-down) **"t"** min/max pair to set **Tail angle** position degree number of variation probability range limit. 
  
-5. Set value for (the fifth available from the top numeric up-down) **"ci"** min/max pair to set **CIF** color intensity filter value possibility range. 
+5. Set value for (the fifth available from the top numeric up-down) **"ci"** min/max pair to set **CIF** color intensity filter value of variation probability range limit. 
 
 ## Flower and insect combination
 
