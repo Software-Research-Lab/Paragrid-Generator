@@ -21,7 +21,7 @@ Intelligent systems and robotics laboratory**
 
 📌 [Read about Quantum structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-structure.md)
 
-Explore the deep labyrinth of the cave by digging and collecting magnificent inclusions, rare, unique, unpredictable, and magic objects from an endless ocean of natural randomness of diversity and hypnotic geometry of "artificial dreams generator" output. 
+Overlapping circles grid structure repetitive geometric pattern defined in geometric curves such as spiral or polygonal shapes triangle hexagonal structures.
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
