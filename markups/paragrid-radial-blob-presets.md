@@ -21,13 +21,7 @@ Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
 ## Biomes generation artifact archive
-
-### Swamp-lily
-
-![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-swamp-lily-example-1.png)
-
-![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-gen-swamp-lily-example-2.png)
-
+ 
 ### Seahorse
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(1).jpg)
