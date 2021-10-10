@@ -16,7 +16,7 @@ Intelligent systems and robotics laboratory**
 
 📌 [Read about Radial-blob structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-structure.md)
 
-Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails. 
+Investigate endlessly fertile output of seahorse harps colorful symphony
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
