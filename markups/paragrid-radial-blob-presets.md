@@ -12,7 +12,7 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Radial-blob structure presets output
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img17.jpg)
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img11.jpg)
 
 📌 [Read about Radial-blob structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-radial-blob-structure.md)
 
