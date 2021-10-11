@@ -30,7 +30,7 @@ Examples of the graphic output stream of unique series generation with parametri
  
 ### 📌[Paragrid Quantum processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-presets.md) 
 
-### Control
+## Control
 
  - [Control and setting](#Control-and-setting)
  - [Structural identification option](#Structural-identification-option)
