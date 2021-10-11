@@ -33,37 +33,31 @@ Examples of the graphic output stream of unique series generation with parametri
  
 ### 📌[Paragrid Quantum processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-presets.md) 
 
-## Swamp lily model
+## Torus controls
 
- - [Swamp lily setup](#Swamp-lily-setup)
- - [Swamp lily setting](#Swamp-lily-setting)
- - [Swamp lily controls](#Swamp-lily-controls)
- - [Swamp lily preset](#Swamp-lily-preset)
+ - [link-link](#link-link)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
 
-### Swamp lily setup
+### Torus control and setting
 
-1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
+1. Change numeric up-down number value under **Unit radius** label to set circle radius.
 
-2. Select **Swamp-lily** model from the right **Select preset** drop-down list.
+2. Change numeric up-down number value under **Round radius** label to set round ring radius.
 
-### Swamp lily setting
+3. Change numeric up-down number value under **Unit number** label to set number of units.
 
-1. Uncheck **Flower/insect** radio button in **Setting** group box to switch from single root levels combination processing mode to separate **Flower** mode.
+4. Check **Multi orbit/single orbit** radio button in **Setting** group box to switch from single orbit to multi orbit mode and in in **Controls** change numeric up-down number value under **Density** label to set number of orbits.
 
-### Swamp lily controls
+ #### Structural identification option
 
-1. Change numeric up-down number value under **Density A** label to set number of orbits
+1. Check or uncheck **Hide/Show node units** radio button to hide or display circles id numbers and count.
 
-2. Change numeric up-down number value under **Radius A** label to set overall radius of the structure
+2. Check or uncheck **Hide/Show center link** radio button to hide or display the round ring radius identification circle.
 
-### Swamp lily preset
+3. Change numeric up-down number value under **NFA** and **NFB** label to fire neuron index with second layer connections.
 
-1. In **Controls** group box, set numeric up-down number value under **Preset range min/max** label for the first **"of"** pair left-minimun and right-maximum to set **Flower** orbits **Density** number possibility range for generation series.
-
-2. Set numeric up-down number value under **Preset range min/max** label for the second **"rf"** pair left-minimun and right-maximum values to set **Flower** radius size number possibility range for generation series.
-
+4. Change numeric up-down number value under **Width** label to increase/decrease circles line width.
 
 ### Structure related references: 
 
