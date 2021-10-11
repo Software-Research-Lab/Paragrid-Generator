@@ -20,15 +20,16 @@ Intelligent systems and robotics laboratory**
 
  - [link linkl](#link-link)
 
-The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
+
+Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
 
 ### Output:
  
-The generation output object formation consists of overall radius for single root radial 360-degree graphic coordinate orbital propagation of insect transformer structure.
+The generation output object formation consists of the round ring and circle radiuses control with a set of circles and formation density orbits number.
 
-Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the butterfly-net radial structure:
+Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the quantum structure:
  
 ### 📌[Paragrid Quantum processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-presets.md) 
 
