@@ -39,7 +39,7 @@ Examples of the graphic output stream of unique series generation with parametri
  - [Swamp lily controls](#Swamp-lily-controls)
  - [Swamp lily preset](#Swamp-lily-preset)
 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-5.png" width="800">
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-11.png" width="800">
 
 ### Swamp lily setup
 
