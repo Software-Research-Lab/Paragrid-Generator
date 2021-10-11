@@ -18,8 +18,9 @@ Intelligent systems and robotics laboratory**
 
 ## Quantum
 
- - [link linkl](#link-link)
-
+ - [Control and setting](#Control-and-setting)
+ - [Structural identification option](#Structural-identification-option)
+ - [Design effect](#Design-effect)
 
 Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
 
