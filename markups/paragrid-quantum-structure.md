@@ -23,6 +23,8 @@ Intelligent systems and robotics laboratory**
 
 Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
+
 ### Output:
  
 The generation output object formation consists of the round ring and circle radiuses control with a set of circles and formation density orbits number.
@@ -37,7 +39,7 @@ Examples of the graphic output stream of unique series generation with parametri
  - [Structural identification option](#Structural-identification-option)
  - [Design effect](#Design-effect)
 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-9.png" width="800">
 
 #### Controls
 
