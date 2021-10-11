@@ -20,15 +20,15 @@ Intelligent systems and robotics laboratory**
 
  - [Link link](#Link-link)
 
-The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
+The graphical structure represents a polymorphic body skeleton  and skin surface of seahorse animation.
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-10.png" width="800">
 
 ### Output:
  
-The generation output object formation consists of overall radius for single root radial 360-degree graphic coordinate orbital propagation of insect transformer structure.
+The generation output object formation consists of centers coordination  of radial propagation processing transformer surface build with randomization of orbits, positions, facets, radiuses, angle, wights, and size value.
 
-Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the butterfly-net radial structure:
+Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the radial-blob structure:
  
 ### 📌[Paragrid Radial-blob processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-radial-blob-presets.md) 
 
