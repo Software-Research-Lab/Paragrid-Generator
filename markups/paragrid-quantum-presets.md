@@ -19,7 +19,7 @@ Intelligent systems and robotics laboratory**
 
 <!--- Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails --->
 
-📌 [Read about Quantum structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-structure.md)
+📌 [Read about Quantum structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-structure.md)
 
 Overlapping circles grid structure repetitive geometric pattern defined in geometric curves such as spiral or polygonal shapes triangle hexagonal structures.
 
