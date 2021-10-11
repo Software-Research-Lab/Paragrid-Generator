@@ -30,7 +30,7 @@ The generation output object formation consists of overall radius for single roo
 
 Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the butterfly-net radial structure:
  
-### 📌[Paragrid Butterfly-net processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-presets.md) 
+### 📌[Paragrid Radial-blob processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-radial-blob-presets.md) 
 
 ## Swamp lily model
 
