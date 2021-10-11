@@ -14,17 +14,15 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Quantum structure
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img7.jpg)
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img14.jpg)
 
 ## Quantum
 
- - [Swamp lily model](#Swamp-lily-model)
- - [Dragonfly model](#Dragonfly-model)
- - [Flower and insect combination](#Flower-and-insect-combination)
+ - [link linkl](#link-link)
 
 The graphical structure represents a centralized graphic map radial propagation grid with control of circular structure overall radius size and formation density orbits number.
 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-6.png" width="800">
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
 
 ### Output:
  
