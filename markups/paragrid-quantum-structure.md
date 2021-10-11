@@ -18,6 +18,9 @@ Intelligent systems and robotics laboratory**
 
 ## Quantum
 
+ - [Control and setting](#Control-and-setting)
+ - [Structure related references](#Structure-related-references)
+
 Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
 
 ### Output:
@@ -30,11 +33,13 @@ Examples of the graphic output stream of unique series generation with parametri
 
 ## Control and setting
 
- - [Control and setting](#Control-and-setting)
+ - [Controls](#Controls)
  - [Structural identification option](#Structural-identification-option)
  - [Design effect](#Design-effect)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
+
+#### Controls
 
 1. Change numeric up-down number value under **Unit radius** label to set circle radius.
 
