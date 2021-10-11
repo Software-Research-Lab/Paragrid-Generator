@@ -69,7 +69,7 @@ Examples of the graphic output stream of unique series generation with parametri
 
 
 ### Structure related references: 
-
+<sub>
 - [Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
 - [Borromean rings](https://en.wikipedia.org/wiki/Borromean_rings)
 - [Six petal rosette](https://en.wikipedia.org/wiki/Six-petal_rosette)
@@ -105,7 +105,7 @@ Examples of the graphic output stream of unique series generation with parametri
 - [Fourth way enneagram](https://en.wikipedia.org/wiki/Fourth_Way_enneagram)
 - [369 number](https://en.wikipedia.org/wiki/369_(number))
 - [Biocentrism](https://en.wikipedia.org/wiki/Robert_Lanza#Biocentrism)
-
+<sub>
 
 
 ## 💖 Support project
