@@ -71,7 +71,7 @@ Examples of the graphic output stream of unique series generation with parametri
 ### Structure related references: 
 
 
-![Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
+[Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
 
 
 https://en.wikipedia.org/wiki/Borromean_rings
