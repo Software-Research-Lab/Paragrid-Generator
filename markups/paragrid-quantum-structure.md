@@ -68,6 +68,55 @@ Examples of the graphic output stream of unique series generation with parametri
 
 
 
+### Structure related references: 
+
+
+![Vesica_piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
+
+
+https://en.wikipedia.org/wiki/Borromean_rings
+https://en.wikipedia.org/wiki/Six-petal_rosette
+https://en.wikipedia.org/wiki/Venn_diagram
+
+https://en.wikipedia.org/wiki/Hexagon
+https://en.wikipedia.org/wiki/Hexagram
+https://en.wikipedia.org/wiki/Snowflake
+
+https://en.wikipedia.org/wiki/Fractal
+https://en.wikipedia.org/wiki/Mandelbrot_set
+https://en.wikipedia.org/wiki/Infinity
+https://en.wikipedia.org/wiki/Infinite_divisibility_(probability)
+https://en.wikipedia.org/wiki/Quantum_field_theory
+https://en.wikipedia.org/wiki/Scaling_dimension
+https://en.wikipedia.org/wiki/Fractal_cosmology
+
+https://en.wikipedia.org/wiki/Fibonacci_number
+https://en.wikipedia.org/wiki/Golden_ratio
+https://en.wikipedia.org/wiki/Spiral
+https://en.wikipedia.org/wiki/Seashell
+
+https://en.wikipedia.org/wiki/Torus
+https://en.wikipedia.org/wiki/Vortex_ring
+
+https://en.wikipedia.org/wiki/Atom
+https://en.wikipedia.org/wiki/Magnetism
+
+https://en.wikipedia.org/wiki/Triquetra
+https://en.wikipedia.org/wiki/Yin_and_yang
+
+https://en.wikipedia.org/wiki/Mandala
+https://en.wikipedia.org/wiki/Chakra
+https://en.wikipedia.org/wiki/Reincarnation
+
+https://en.wikipedia.org/wiki/Seal_of_Solomon  
+https://en.wikipedia.org/wiki/As_above,_so_below
+https://en.wikipedia.org/wiki/Sefirot
+
+https://en.wikipedia.org/wiki/Microcosm-macrocosm_analogy
+https://en.wikipedia.org/wiki/Ouroboros
+https://en.wikipedia.org/wiki/Fourth_Way_enneagram
+https://en.wikipedia.org/wiki/369_(number)
+https://en.wikipedia.org/wiki/Robert_Lanza#Biocentrism
 
 
 
