@@ -77,7 +77,7 @@ Examples of the graphic output stream of unique series generation with parametri
 - [Fractal](https://en.wikipedia.org/wiki/Fractal)
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 - [Infinity](https://en.wikipedia.org/wiki/Infinity)
-- [Infinite_divisibility](https://en.wikipedia.org/wiki/Infinite_divisibility_(probability))
+- [Infinite divisibility](https://en.wikipedia.org/wiki/Infinite_divisibility_(probability))
 - [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 - [Scaling dimension](https://en.wikipedia.org/wiki/Scaling_dimension)
 - [Fractal cosmology](https://en.wikipedia.org/wiki/Fractal_cosmology)
