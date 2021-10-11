@@ -55,9 +55,13 @@ Examples of the graphic output stream of unique series generation with parametri
 
 2. Check or uncheck **Hide/Show center link** radio button to hide or display the round ring radius identification circle.
 
-3. Change numeric up-down number value under **NFA** and **NFB** label to fire neuron index with second layer connections.
+#### Design effect
 
-4. Change numeric up-down number value under **Width** label to increase/decrease circles line width.
+1. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease circles line width.
+
+2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to use **Center colors off/on** option, which allows circle background and **Grid colors off/on** line color randomization.
+
+#
 
 ### Structure related references: 
 
