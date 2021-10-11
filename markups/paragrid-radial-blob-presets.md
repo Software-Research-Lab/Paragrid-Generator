@@ -14,7 +14,7 @@ Intelligent systems and robotics laboratory**
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img15.jpg)
 
-📌 [Read about Radial-blob structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-structure.md)
+📌 [Read about Radial-blob structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-radial-blob-structure.md)
 
 Investigate endlessly fertile output of seahorse harps colorful symphony
 
