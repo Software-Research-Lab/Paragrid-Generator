@@ -67,7 +67,7 @@ Intelligent systems and robotics laboratory**
 
 2. Check or uncheck **Structure on/off** radio button to use **Grid colors on/off** radio button option to add random color to network structure connection.
 
-3. Change numeric up-down number value under line **Width** label to increase/decrease network connection line width
+3. Change numeric up-down number value under **Width** label to increase/decrease network connection line width
 
 #### Control property
 
