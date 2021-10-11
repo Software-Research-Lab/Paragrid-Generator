@@ -53,15 +53,11 @@ Intelligent systems and robotics laboratory**
 
 #### Structural identification option
 
-1. Check/uncheck **Structure on/off** radio button to switch from structural view mode with layer circles and node points to clear grid view. 
+1. Check or uncheck **Hide/Show node units** radio button to hide or display nodes id numbers and count.
 
-✔️ Note: Use this option to turn on/off structural view mode for saving and generation. **Structure off** condition provides adding of **Center colors on/off** and **Grid colors on/off** presets design option.
+2. Check or uncheck **Hide/Show center link** radio button to hide or display the common center link with circles centers and nodes, and nodes connection. 
 
-2. Check or uncheck **Hide/Show node units** radio button to hide or display nodes id numbers and count.
-
-3. Check or uncheck **Hide/Show center link** radio button to hide or display the common center link with circles centers and nodes, and nodes connection. 
-
-4. Change numeric up-down number value under **NFA** and **NFB** label to fire neuron index with second layer connections
+3. Change numeric up-down number value under **NFA** and **NFB** label to fire neuron index with second layer connections
 
 #### Design effect
 
@@ -79,15 +75,21 @@ Intelligent systems and robotics laboratory**
 
 ### Save
 
-1. Change numeric up-down number value under **Number** label to set the number of generations for image file output.
- 
-2. Check or uncheck **JPG** and **PNG** checkbox to set output image file formats. 
+1. Check/uncheck **Structure on/off** radio button to switch from structural view mode with layer circles and node points to clear grid view. 
 
-3. Click **Generate** drop button to generate image files according **Number** value.
+✔️ Note: Use this option to turn on/off structural view mode for saving and generation. **Structure off** condition provides adding of **Center colors on/off** and **Grid colors on/off** presets design option.
+
+2. Click **Background color** rainbow button to choose the background color. 
+
+3. Change numeric up-down number value under **Number** label to set the number of generations for image file output.
+ 
+4. Check or uncheck **JPG** and **PNG** checkbox to set output image file formats. 
+
+5. Click **Generate** drop button to generate image files according **Number** value.
 
 ✔️ Note: To generate files check one or both **JPG** and **PNG** output image file formats.
 
-4. To save actual grid image, click **Save image** and **Open Folder** to open Project folder 📁 directory by path C:/Users/User/AppData/Roaming/Tailab/Paragrid/Output
+6. To save actual grid image, click **Save image** and **Open Folder** to open Project folder 📁 directory by path C:/Users/User/AppData/Roaming/Tailab/Paragrid/Output
 
 ### Setup
 
@@ -96,6 +98,8 @@ Intelligent systems and robotics laboratory**
 2. **Select preset** generation processing preset or model from the right drop-down list.
 
 ✔️ Note: By default preset provides individual line **Line width** and automatic switch to **Structure off** with **Center colors on** and **Grid colors on** design options. 
+
+3. Check or uncheck to switch **Gene** generation process and **Build** building process option.
 
 #### Display option
 
