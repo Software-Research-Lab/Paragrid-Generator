@@ -70,52 +70,41 @@ Examples of the graphic output stream of unique series generation with parametri
 
 ### Structure related references: 
 
-
-[Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
-[Borromean rings](https://en.wikipedia.org/wiki/Borromean_rings)
-[Six petal rosette](https://en.wikipedia.org/wiki/Six-petal_rosette)
-[Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram)
-
-
-[Hexagon](https://en.wikipedia.org/wiki/Hexagon)
-[Hexagram](https://en.wikipedia.org/wiki/Hexagram)
-[Snowflake](https://en.wikipedia.org/wiki/Snowflake)
-
-[Fractal](https://en.wikipedia.org/wiki/Fractal)
-[Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
-[Infinity](https://en.wikipedia.org/wiki/Infinity)
-[Infinite_divisibility](https://en.wikipedia.org/wiki/Infinite_divisibility_(probability))
-[Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
-[Scaling dimension](https://en.wikipedia.org/wiki/Scaling_dimension)
-[Fractal cosmology](https://en.wikipedia.org/wiki/Fractal_cosmology)
-
-[Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
-[Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
-[Spiral](https://en.wikipedia.org/wiki/Spiral)
-[Seashell](https://en.wikipedia.org/wiki/Seashell)
-
-[Torus](https://en.wikipedia.org/wiki/Torus)
-[Vortex_ring](https://en.wikipedia.org/wiki/Vortex_ring)
-
-[Atom](https://en.wikipedia.org/wiki/Atom)
-[Magnetism](https://en.wikipedia.org/wiki/Magnetism)
-
-[Triquetra](https://en.wikipedia.org/wiki/Triquetra)
-[Yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
-
-[Mandala](https://en.wikipedia.org/wiki/Mandala)
-[Chakra](https://en.wikipedia.org/wiki/Chakra)
-[Reincarnation](https://en.wikipedia.org/wiki/Reincarnation)
-
-[Seal of Solomon](https://en.wikipedia.org/wiki/Seal_of_Solomon)
-[As above, so below](https://en.wikipedia.org/wiki/As_above,_so_below)
-[Sefirot](https://en.wikipedia.org/wiki/Sefirot)
-
-[Microcosm-macrocosm analogy](https://en.wikipedia.org/wiki/Microcosm-macrocosm_analogy)
-[Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
-[Fourth way enneagram](https://en.wikipedia.org/wiki/Fourth_Way_enneagram)
-[369 number](https://en.wikipedia.org/wiki/369_(number))
-[Biocentrism](https://en.wikipedia.org/wiki/Robert_Lanza#Biocentrism)
+- [Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
+- [Borromean rings](https://en.wikipedia.org/wiki/Borromean_rings)
+- [Six petal rosette](https://en.wikipedia.org/wiki/Six-petal_rosette)
+- [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram)
+- [Hexagon](https://en.wikipedia.org/wiki/Hexagon)
+- [Hexagram](https://en.wikipedia.org/wiki/Hexagram)
+- [Snowflake](https://en.wikipedia.org/wiki/Snowflake)
+- [Fractal](https://en.wikipedia.org/wiki/Fractal)
+- [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- [Infinity](https://en.wikipedia.org/wiki/Infinity)
+- [Infinite_divisibility](https://en.wikipedia.org/wiki/Infinite_divisibility_(probability))
+- [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
+- [Scaling dimension](https://en.wikipedia.org/wiki/Scaling_dimension)
+- [Fractal cosmology](https://en.wikipedia.org/wiki/Fractal_cosmology)
+- [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
+- [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
+- [Spiral](https://en.wikipedia.org/wiki/Spiral)
+- [Seashell](https://en.wikipedia.org/wiki/Seashell)
+- [Torus](https://en.wikipedia.org/wiki/Torus)
+- [Vortex_ring](https://en.wikipedia.org/wiki/Vortex_ring)
+- [Atom](https://en.wikipedia.org/wiki/Atom)
+- [Magnetism](https://en.wikipedia.org/wiki/Magnetism)
+- [Triquetra](https://en.wikipedia.org/wiki/Triquetra)
+- [Yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
+- [Mandala](https://en.wikipedia.org/wiki/Mandala)
+- [Chakra](https://en.wikipedia.org/wiki/Chakra)
+- [Reincarnation](https://en.wikipedia.org/wiki/Reincarnation)
+- [Seal of Solomon](https://en.wikipedia.org/wiki/Seal_of_Solomon)
+- [As above, so below](https://en.wikipedia.org/wiki/As_above,_so_below)
+- [Sefirot](https://en.wikipedia.org/wiki/Sefirot)
+- [Microcosm-macrocosm analogy](https://en.wikipedia.org/wiki/Microcosm-macrocosm_analogy)
+- [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
+- [Fourth way enneagram](https://en.wikipedia.org/wiki/Fourth_Way_enneagram)
+- [369 number](https://en.wikipedia.org/wiki/369_(number))
+- [Biocentrism](https://en.wikipedia.org/wiki/Robert_Lanza#Biocentrism)
 
 
 
