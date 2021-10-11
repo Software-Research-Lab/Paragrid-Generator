@@ -86,7 +86,7 @@ Examples of the graphic output stream of unique series generation with parametri
 - [Spiral](https://en.wikipedia.org/wiki/Spiral)
 - [Seashell](https://en.wikipedia.org/wiki/Seashell)
 - [Torus](https://en.wikipedia.org/wiki/Torus)
-- [Vortex_ring](https://en.wikipedia.org/wiki/Vortex_ring)
+- [Vortex ring](https://en.wikipedia.org/wiki/Vortex_ring)
 - [Atom](https://en.wikipedia.org/wiki/Atom)
 - [Magnetism](https://en.wikipedia.org/wiki/Magnetism)
 - [Triquetra](https://en.wikipedia.org/wiki/Triquetra)
