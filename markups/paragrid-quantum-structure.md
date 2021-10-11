@@ -73,6 +73,7 @@ Examples of the graphic output stream of unique series generation with parametri
 
 [Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 https://en.wikipedia.org/wiki/Borromean_rings
 https://en.wikipedia.org/wiki/Six-petal_rosette
