@@ -90,12 +90,6 @@ Examples of the graphic output stream of unique series generation with parametri
 
 4. Scroll track bar on the left of the **CIF** label, to increase/decrease the color intensity filter of wing pattern coloring.  
 
-5. Check or uncheck **Gene/Build** checkbox to switch from **Generate** mode, which uses **Preset range min/max** default or custom value possibility range preset setting for generation series, or **Build** mode, which uses preset from **Control** and **Setting** for actual single image creation.
-
-✔️ Note: To save the image files with **Gene** mode, choose the format and click on **Generate** drop button. The **Build** mode also requires following manual saving action by clicking on **Save image** *diskette* button.
-
-✔️ Note: To save insect wings with a non-horizontal angle, press any arrow button to find position and click **Save image**
-
 ### Dragonfly controls
 
 1. Change numeric up-down number value under **Density B** label to set number of orbits
@@ -127,19 +121,15 @@ Examples of the graphic output stream of unique series generation with parametri
 
 2. Select **Swamp-lily** model from the right **Select preset** drop-down list.
 
+3. Check or uncheck **Gene/Build** checkbox to switch from **Generate** mode, which uses **Preset range min/max** default or custom value possibility range preset setting for generation series, or **Build** mode, which uses preset from **Control** and **Setting** for actual single image creation.
+
+✔️ Note: To save the image files with **Gene** mode, choose the format and click on **Generate** drop button. The **Build** mode also requires following manual saving action by clicking on **Save image** *diskette* button.
+
+✔️ Note: To save insect wings with a non-horizontal angle, press any arrow button to find position and click **Save image**
+
 ### Flower and insect setting
 
 1. Check **Flower/insect** radio button in **Setting** group box to switch from separate **Flower** mode to single root levels combination processing mode.
-
-
-
-
-
-
-
-
- 
-
 
 ## 💖 Support project
 
