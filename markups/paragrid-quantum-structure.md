@@ -33,12 +33,6 @@ Examples of the graphic output stream of unique series generation with parametri
  
 ### 📌[Paragrid Quantum processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-presets.md) 
 
-## Torus controls
-
- - [link-link](#link-link)
-
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
-
 ### Control and setting
 
 1. Change numeric up-down number value under **Unit radius** label to set circle radius.
