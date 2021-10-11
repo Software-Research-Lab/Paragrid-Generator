@@ -26,7 +26,7 @@ The graphical structure represents a polymorphic body skeleton  and skin surface
 
 ### Output:
  
-The generation output object formation consists of centers coordination of radial propagation processing transformer build with randomization of orbits, positions, facets, radiuses, angle, wights, and size value.
+The generation output object formation consists of centers coordination of radial propagation processing transformer build with randomization of orbits, positions, facets, radiuses, angle, color, wights, and size value.
 
 Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the radial-blob structure:
  
