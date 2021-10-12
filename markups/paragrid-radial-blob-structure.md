@@ -18,7 +18,7 @@ Intelligent systems and robotics laboratory**
 
 ## Radial-blob
 
- - [Link link](#Link-link)
+ - [Control and setting](#Control-and-setting)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-10.png" width="800">
 
@@ -32,14 +32,12 @@ Examples of the graphic output stream of unique series generation with parametri
  
 ### 📌[Paragrid Radial-blob processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-radial-blob-presets.md) 
 
-## Seahorse
+## Control and setting
 
  - [Structural identification option](#Structural-identification-option)
- - [Seahorse controls](#Seahorse-controls)
+ - [Design effect](#Design-effect)
  
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-11.png" width="800">
-
-## Seahorse setting
 
  #### Structural identification option
 
