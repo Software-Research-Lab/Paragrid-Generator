@@ -34,7 +34,7 @@ Examples of the graphic output stream of unique series generation with parametri
 
 ## Seahorse
 
- - [Seahorse setting](#Seahorse-setting)
+ - [Structural identification option](#Structural-identification-option)
  - [Seahorse controls](#Seahorse-controls)
  
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-11.png" width="800">
