@@ -37,8 +37,8 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
  ### Structure related references: 
 
-- [Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
-- [Six petal rosette](https://en.wikipedia.org/wiki/Six-petal_rosette)
+- 🔗 [Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
+- 🔗 [Six petal rosette](https://en.wikipedia.org/wiki/Six-petal_rosette)
 - [Borromean rings](https://en.wikipedia.org/wiki/Borromean_rings)
 - [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram)
 - [Hexagon](https://en.wikipedia.org/wiki/Hexagon)
