@@ -19,7 +19,6 @@ Intelligent systems and robotics laboratory**
 ## Quantum
 
  - [Control and setting](#Control-and-setting)
- - [Structure related references](#Structure-related-references)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
 
