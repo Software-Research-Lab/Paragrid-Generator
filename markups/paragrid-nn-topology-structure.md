@@ -17,7 +17,7 @@ Intelligent systems and robotics laboratory**
 
 ## NN-Topology
 
-The graphical matrix, based on the topological structure of a neural network with connections between all nodes of the input layer directly to each node of the output. 
+The graphical matrix, based on the topological structure of a neural network complete graph with connections between all nodes of the input layer directly to each node of the output. 
 
 Provides a parametric display of separate nodes, value and connection visual identification, structure building, and skeleton form controls.
 
