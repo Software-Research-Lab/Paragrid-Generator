@@ -68,8 +68,8 @@ Examples of the graphic output stream of unique series generation with parametri
 ### Structure related references: 
 
 - [Vesica piscis](https://en.wikipedia.org/wiki/Vesica_piscis)
-- [Borromean rings](https://en.wikipedia.org/wiki/Borromean_rings)
 - [Six petal rosette](https://en.wikipedia.org/wiki/Six-petal_rosette)
+- [Borromean rings](https://en.wikipedia.org/wiki/Borromean_rings)
 - [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram)
 - [Hexagon](https://en.wikipedia.org/wiki/Hexagon)
 - [Hexagram](https://en.wikipedia.org/wiki/Hexagram)
