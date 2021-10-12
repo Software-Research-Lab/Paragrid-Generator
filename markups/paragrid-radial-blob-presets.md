@@ -24,10 +24,14 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
  
 ### Seahorse
 
-#### nocturnal pearls 
+#### Nocturnal pearls 
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(7).jpg)
+
+#### Janus compass 
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(1).jpg)
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(2).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(3).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(4).jpg)
