@@ -32,7 +32,7 @@ Examples of the graphic output stream of unique series generation with parametri
  
 ### 📌[Paragrid Radial-blob processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-radial-blob-presets.md) 
 
-## Swamp lily model
+## Seahorse
 
  - [Swamp lily setup](#Swamp-lily-setup)
  - [Swamp lily setting](#Swamp-lily-setting)
