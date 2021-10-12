@@ -48,7 +48,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(5).jpg)
 
-#### Coral harps
+#### Bubble suits and Coral harps
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(6).jpg)
 
