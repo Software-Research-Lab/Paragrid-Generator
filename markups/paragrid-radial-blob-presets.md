@@ -32,11 +32,28 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(1).jpg)
 
+#### Icarus
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(2).jpg)
+
+#### Orion pipes
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(3).jpg)
+
+#### Saturn ribs 
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(4).jpg)
+
+#### Amber incs
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(5).jpg)
+
+#### Coral harps
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(6).jpg)
+
+#### Libre lyras
+
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-radial-blob-example-(8).jpg)
 
 
