@@ -90,6 +90,8 @@ Examples of the graphic output stream of unique series generation with parametri
 - [Atom](https://en.wikipedia.org/wiki/Atom)
 - [Magnetism](https://en.wikipedia.org/wiki/Magnetism)
 - [Triquetra](https://en.wikipedia.org/wiki/Triquetra)
+- [Trefoil knot](https://en.wikipedia.org/wiki/Trefoil_knot)
+- [Triskelion](https://en.wikipedia.org/wiki/Triskelion)
 - [Yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
 - [Mandala](https://en.wikipedia.org/wiki/Mandala)
 - [Chakra](https://en.wikipedia.org/wiki/Chakra)
