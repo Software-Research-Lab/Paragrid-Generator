@@ -57,13 +57,11 @@ Examples of the graphic output stream of unique series generation with parametri
 
 4. Check or uncheck **Hide/Show node units** radio button to hide or display the head motion radius indicator. 
 
-### Seahorse setting
+5. Check or uncheck **Multi** checkbox in **Controls** group box panel to set multiplication of background points.
 
- 
+6. Check or uncheck **Coloring** checkbox to set structure point segmental coloring.
 
-
-
-
+7. Click **Line color** rainbow button in **Controls** group box panel to choose the line color.
 
 ## 💖 Support project
 
