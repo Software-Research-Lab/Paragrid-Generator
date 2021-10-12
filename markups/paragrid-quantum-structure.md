@@ -21,9 +21,9 @@ Intelligent systems and robotics laboratory**
  - [Control and setting](#Control-and-setting)
  - [Structure related references](#Structure-related-references)
 
-Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
-
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-8.png" width="800">
+
+Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
 
 ### Output:
  
