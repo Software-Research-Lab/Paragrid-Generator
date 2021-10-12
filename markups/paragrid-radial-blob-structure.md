@@ -22,7 +22,7 @@ Intelligent systems and robotics laboratory**
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-10.png" width="800">
 
-The graphical structure represents a polymorphic body skeleton  and skin surface of seahorse animation.
+The graphical structure represents a polymorphic body skeleton and skin surface of seahorse мetamorphic animation.
 
 ### Output:
  
