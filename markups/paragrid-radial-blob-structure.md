@@ -34,22 +34,32 @@ Examples of the graphic output stream of unique series generation with parametri
 
 ## Seahorse
 
- - [Swamp lily setup](#Swamp-lily-setup)
- - [Swamp lily setting](#Swamp-lily-setting)
- - [Swamp lily controls](#Swamp-lily-controls)
- - [Swamp lily preset](#Swamp-lily-preset)
-
+ - [Seahorse setting](#Seahorse-setting)
+ - [Seahorse controls](#Seahorse-controls)
+ 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-11.png" width="800">
 
-### Swamp lily setup
+## Seahorse setting
 
-1. Select **Butterfly-net** structure from left **Select structure** drop-down list.
+ #### Structural identification option
 
-2. Select **Swamp-lily** model from the right **Select preset** drop-down list.
+1. Check or uncheck **Hide/Show node units** radio button to hide or display the head motion radius indicator. 
 
+2. Check or uncheck **Hide/Show center link** radio button to hide or display the centers.
 
+#### Design effect
 
+1. Check or uncheck **Structure on/off** radio button in **Save** group box panel to use **Center colors off/on** option, which allows circle background and **Grid colors off/on** line color randomization.
 
+2. Check or uncheck **Grid color multi/single** radio button to allows line color segmental randomization.
+
+3. Set numeric up-down number value under **Body**, **Head** and **Fin** labels in **Setting** group box panel to increase/decrease lines width for separate part.
+
+4. Check or uncheck **Hide/Show node units** radio button to hide or display the head motion radius indicator. 
+
+### Seahorse setting
+
+ 
 
 
 
