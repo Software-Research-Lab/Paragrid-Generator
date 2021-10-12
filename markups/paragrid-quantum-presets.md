@@ -21,6 +21,8 @@ Intelligent systems and robotics laboratory**
 
 📌 [Read about Quantum structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-structure.md)
 
+📎 [Structure related references](#Structure-related-references)
+ 
 Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
