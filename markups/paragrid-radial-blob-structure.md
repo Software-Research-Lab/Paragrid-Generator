@@ -51,7 +51,7 @@ Examples of the graphic output stream of unique series generation with parametri
 
 2. Check or uncheck **Grid color multi/single** radio button to allows line color segmental randomization.
 
-3. Set numeric up-down number value under **Body**, **Head** and **Fin** labels in **Setting** group box panel to increase/decrease lines width for separate part.
+3. Set numeric up-down number value under **Body**, **Head**, and **Fin** labels in Setting group box panel to increase/decrease lines width for a separate part.
 
 4. Check or uncheck **Hide/Show node units** radio button to hide or display the head motion radius indicator. 
 
