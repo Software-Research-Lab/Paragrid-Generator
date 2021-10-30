@@ -76,7 +76,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Seal of Solomon](https://en.wikipedia.org/wiki/Seal_of_Solomon)
 - [As above, so below](https://en.wikipedia.org/wiki/As_above,_so_below)
 - [Sefirot](https://en.wikipedia.org/wiki/Sefirot)
-- [Tree_of_life](https://en.wikipedia.org/wiki/Tree_of_life_(Kabbalah))
+- [Tree of life](https://en.wikipedia.org/wiki/Tree_of_life_(Kabbalah))
 - [Microcosm-macrocosm analogy](https://en.wikipedia.org/wiki/Microcosm-macrocosm_analogy)
 - [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
 - [Enneagram](https://en.wikipedia.org/wiki/Enneagram_(geometry))
