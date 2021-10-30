@@ -52,6 +52,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 - [Scaling dimension](https://en.wikipedia.org/wiki/Scaling_dimension)
 - [Fractal cosmology](https://en.wikipedia.org/wiki/Fractal_cosmology)
+- [Pi](https://en.wikipedia.org/wiki/Pi)
 - [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
 - [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
 - [Spiral](https://en.wikipedia.org/wiki/Spiral)
