@@ -41,6 +41,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Six petal rosette](https://en.wikipedia.org/wiki/Six-petal_rosette)
 - [Borromean rings](https://en.wikipedia.org/wiki/Borromean_rings)
 - [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram)
+- [Sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry)
 - [Hexagon](https://en.wikipedia.org/wiki/Hexagon)
 - [Hexagram](https://en.wikipedia.org/wiki/Hexagram)
 - [Snowflake](https://en.wikipedia.org/wiki/Snowflake)
