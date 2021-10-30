@@ -69,6 +69,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [I Ching](https://en.wikipedia.org/wiki/I_Ching)
 - [Hexagram (I Ching)](https://en.wikipedia.org/wiki/Hexagram_(I_Ching))
 - [Mandala](https://en.wikipedia.org/wiki/Mandala)
+- [Mantra](https://en.wikipedia.org/wiki/Mantra)
 - [Chakra](https://en.wikipedia.org/wiki/Chakra)
 - [Reincarnation](https://en.wikipedia.org/wiki/Reincarnation)
 - [Bardo Thodol](https://en.wikipedia.org/wiki/Bardo_Thodol)
