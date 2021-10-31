@@ -56,7 +56,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
 - [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
 - [Spiral](https://en.wikipedia.org/wiki/Spiral)
-- [Vitruvian_Man](https://en.wikipedia.org/wiki/Vitruvian_Man)
+- [Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man)
 - [Seashell](https://en.wikipedia.org/wiki/Seashell)
 - [Torus](https://en.wikipedia.org/wiki/Torus)
 - [Vortex ring](https://en.wikipedia.org/wiki/Vortex_ring)
