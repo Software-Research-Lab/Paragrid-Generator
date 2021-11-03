@@ -49,6 +49,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
 - [Infinity](https://en.wikipedia.org/wiki/Infinity)
 - [Lemniscate](https://en.wikipedia.org/wiki/Lemniscate)
+- [Mobius strip](https://en.wikipedia.org/wiki/Mobius strip)
 - [Infinite divisibility](https://en.wikipedia.org/wiki/Infinite_divisibility_(probability))
 - [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 - [Scaling dimension](https://en.wikipedia.org/wiki/Scaling_dimension)
