@@ -67,6 +67,8 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Triquetra](https://en.wikipedia.org/wiki/Triquetra)
 - [Trefoil knot](https://en.wikipedia.org/wiki/Trefoil_knot)
 - [Triskelion](https://en.wikipedia.org/wiki/Triskelion)
+- [Trimurti](https://en.wikipedia.org/wiki/Trimurti)
+- [Taoism](https://en.wikipedia.org/wiki/Taoism)
 - [Yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
 - [I Ching](https://en.wikipedia.org/wiki/I_Ching)
 - [Hexagram (I Ching)](https://en.wikipedia.org/wiki/Hexagram_(I_Ching))
