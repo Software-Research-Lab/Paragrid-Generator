@@ -52,6 +52,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Mobius strip](https://en.wikipedia.org/wiki/Mobius_strip)
 - [Infinite divisibility](https://en.wikipedia.org/wiki/Infinite_divisibility_(probability))
 - [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
+- [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 - [Scaling dimension](https://en.wikipedia.org/wiki/Scaling_dimension)
 - [Fractal cosmology](https://en.wikipedia.org/wiki/Fractal_cosmology)
 - [Pi](https://en.wikipedia.org/wiki/Pi)
