@@ -23,7 +23,7 @@ Intelligent systems and robotics laboratory**
 
 🔗 [Structure related references](#Structure-related-references)
  
-Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
+Angle orbital branching radial tree animation skeleton. 
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
