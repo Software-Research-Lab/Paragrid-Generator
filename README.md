@@ -121,6 +121,9 @@ Intelligent systems and robotics laboratory**
 
 📌 [Radial-blob](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-radial-blob-structure.md)
 
+📌 [Anima-tree](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-anima-tree-structure.md)
+
+
 #### Presets
 
 📌 [Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-presets.md)
@@ -130,6 +133,8 @@ Intelligent systems and robotics laboratory**
 📌 [Paragrid Quantum processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-presets.md) 
 
 📌 [Paragrid Radial-blob processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-radial-blob-presets.md) 
+
+📌 [Paragrid Anima-tree processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-anima-tree-presets.md)
 
 #
 
