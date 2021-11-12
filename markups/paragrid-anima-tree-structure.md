@@ -15,7 +15,7 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Anima-tree structure
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img10.jpg)
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img12.jpg)
 
 ## Anima-tree
 
