@@ -41,11 +41,11 @@ Examples of the graphic output stream of unique series generation with parametri
 
 #### Controls
 
-1. Scroll track bars under *S* side label, to set head position.
+1. Scroll track bars under **S** side label, to set head position.
 
-2. Scroll track bars under *R1*, *R2* right and *L1*, *L2* left hands position.
+2. Scroll track bars under **R1**, **R2** right and **L1**, **L2** left hands position.
 
-3. Scroll track bars under *R* right and *L* left legs position.
+3. Scroll track bars under **R** right and **L** left legs position.
 
 4. Check **Multi orbit/single orbit** radio button in **Setting** group box to switch from single orbit to multi orbit mode and in in **Controls** change numeric up-down number value under **Density** label to set number of orbits.
 
