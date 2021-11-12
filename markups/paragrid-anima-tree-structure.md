@@ -55,11 +55,11 @@ Examples of the graphic output stream of unique series generation with parametri
 
 #### Design option
 
-1. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease circles line width.
+1. Check or uncheck **Gene** to randomize or **Build** option to preset head and limbs position.
 
 2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to switch from default structure to randomization condition.
 
-3. Check or uncheck **Gene** to randomize or **Build** option to preset head and limbs position.
+3. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease circles line width.
 
 ## 💖 Support project
 
