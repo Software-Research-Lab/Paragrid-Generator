@@ -29,7 +29,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ## Biomes generation artifact archive
 
-### Ganesha
+### Baby Ganesha
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-anima-tree-example-(1).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-anima-tree-example-(2).jpg)
