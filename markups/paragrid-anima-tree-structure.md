@@ -29,7 +29,7 @@ The graphical structure represents an angle orbital branching body skeleton of [
 
 The generation output object formation represents the randomization of positions, colors, objects, and patterns.
  
-Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the quantum structure:
+Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the anima-tree structure:
  
 ### 📌[Paragrid Anima-tree processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-anima-tree-presets.md) 
 
