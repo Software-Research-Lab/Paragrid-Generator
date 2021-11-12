@@ -23,7 +23,8 @@ Intelligent systems and robotics laboratory**
 
 🔗 [Structure related references](#Structure-related-references)
  
-The emanations of the wisdom and well-being deity. The radiant baby [Sri Ganesha](https://en.wikipedia.org/wiki/Ganesha), the magnificent Ganapati juggling [I Ching](https://en.wikipedia.org/wiki/I_Ching) hexagrams. 
+The emanations of the wisdom and well-being deity. The radiant baby [Sri Ganesha](https://en.wikipedia.org/wiki/Ganesha), the magnificent Ganapati. 
+<!--- juggling [I Ching](https://en.wikipedia.org/wiki/I_Ching) hexagrams. --->
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
