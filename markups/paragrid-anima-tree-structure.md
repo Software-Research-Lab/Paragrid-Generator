@@ -23,11 +23,11 @@ Intelligent systems and robotics laboratory**
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-12.png" width="800">
 
-Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
+The graphical structure represents a angle orbital branching body skeleton of [Ganesha](https://en.wikipedia.org/wiki/Ganesha) radial tree animation.
 
 ### Output:
  
-The generation output object formation represents angle orbital branching of radial tree animation randomization for skeleton positions, colors, objects, and patterns.
+The generation output object formation represents randomization of positions, colors, objects, and patterns.
 
 Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the quantum structure:
  
