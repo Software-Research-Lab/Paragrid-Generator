@@ -37,7 +37,7 @@ Examples of the graphic output stream of unique series generation with parametri
 
  - [Controls](#Controls)
  - [Structural identification option](#Structural-identification-option)
- - [Design option](#Design-effect)
+ - [Design option](#Design-option)
 
 #### Controls
 
