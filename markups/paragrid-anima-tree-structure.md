@@ -23,7 +23,7 @@ Intelligent systems and robotics laboratory**
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-12.png" width="800">
 
-The graphical structure represents an angle orbital branching body skeleton of [Ganesha](https://en.wikipedia.org/wiki/Ganesha)  radial tree animation.
+The graphical structure represents an angle orbital branching body skeleton of radial tree animation.
 
 ### Output:
 
