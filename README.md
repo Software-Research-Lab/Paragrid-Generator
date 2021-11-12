@@ -113,7 +113,7 @@ Intelligent systems and robotics laboratory**
 
 #### NN-Topology
 
-📌 [NN-Topology](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-structure.md)
+📌 [NN-Topology structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-structure.md)
 
 👉 [Paragrid NN-Topology processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-nn-topology-presets.md)
 
