@@ -23,7 +23,7 @@ Intelligent systems and robotics laboratory**
 
 🔗 [Structure related references](#Structure-related-references)
  
-Angle orbital branching radial tree animation skeleton. 
+The emanations of the wisdom and well-being deity. The radiant baby [Sri Ganesha](https://en.wikipedia.org/wiki/Ganesha), the magnificent Ganapati juggling [I Ching](https://en.wikipedia.org/wiki/I_Ching) hexagrams. 
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
@@ -43,12 +43,6 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-anima-tree-example-(10).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-anima-tree-example-(11).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-anima-tree-example-(12).jpg)
-
- ### Structure related references: 
-
-- [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
-- [I Ching](https://en.wikipedia.org/wiki/I_Ching)
- 
 
 ## 💖 Support project
 
