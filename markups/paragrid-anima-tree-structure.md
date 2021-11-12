@@ -27,11 +27,14 @@ Overlapping circles grid structure repetitive pattern defined in geometric curve
 
 ### Output:
  
-The generation output object formation consists of the round ring and circle radiuses control with a set of circles and formation density orbits number.
+The generation output object formation represents angle orbital branching of radial tree animation randomization for skeleton positions, colors, objects, and patterns.
 
 Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the quantum structure:
  
 ### 📌[Paragrid Anima-tree processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-anima-tree-presets.md) 
+
+
+<!---
 
 ## Control and setting
 
@@ -62,6 +65,8 @@ Examples of the graphic output stream of unique series generation with parametri
 1. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease circles line width.
 
 2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to use **Center colors off/on** option, which allows circle background and **Grid colors off/on** line color randomization.
+
+--->
 
 ## 💖 Support project
 
