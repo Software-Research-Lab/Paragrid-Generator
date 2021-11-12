@@ -33,40 +33,35 @@ Examples of the graphic output stream of unique series generation with parametri
  
 ### 📌[Paragrid Anima-tree processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-anima-tree-presets.md) 
 
-
-<!---
-
 ## Control and setting
 
  - [Controls](#Controls)
  - [Structural identification option](#Structural-identification-option)
- - [Design effect](#Design-effect)
+ - [Design option](#Design-effect)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-9.png" width="800">
 
 #### Controls
 
-1. Change numeric up-down number value under **Unit radius** label to set circle radius.
+1. Scroll track bars under *S* side label, to set head position.
 
-2. Change numeric up-down number value under **Round radius** label to set round ring radius.
+2. Scroll track bars under *R1*, *R2* right and *L1*, *L2* left hands position.
 
-3. Change numeric up-down number value under **Unit number** label to set number of units.
+3. Scroll track bars under *R* right and *L* left legs position.
 
 4. Check **Multi orbit/single orbit** radio button in **Setting** group box to switch from single orbit to multi orbit mode and in in **Controls** change numeric up-down number value under **Density** label to set number of orbits.
 
  #### Structural identification option
 
-1. Check or uncheck **Hide/Show node units** radio button to hide or display circles id numbers and count.
+1. Check or uncheck **Hide/Show node units** radio button to hide or display radial tree angular branches.
 
-2. Check or uncheck **Hide/Show center link** radio button to hide or display the round ring radius identification circle.
-
-#### Design effect
+#### Design option
 
 1. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease circles line width.
 
-2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to use **Center colors off/on** option, which allows circle background and **Grid colors off/on** line color randomization.
+2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to switch from default structure to randomization condition.
 
---->
+3. Check or uncheck **Gene** to randomize or **Build** option to preset head and limbs position.
 
 ## 💖 Support project
 
