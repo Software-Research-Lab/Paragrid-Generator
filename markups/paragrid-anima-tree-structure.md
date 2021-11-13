@@ -55,11 +55,19 @@ Examples of the graphic output stream of unique series generation with parametri
 
 #### Design option
 
-1. Check or uncheck **Gene** to randomize or **Build** option to preset head and limbs position.
+1. Check or uncheck **Gene** randomize or **Build** option to preset head and limbs position.
 
 2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to switch from default structure to randomization condition.
 
-3. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease line width.
+3. Check or uncheck **Center colors on/off** to randomize pattern default color.
+
+4. Check or uncheck **Grid colors on/off** and convert the default contour line to a semitone of the overall color.
+
+5. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease line width.
+
+6. Check or uncheck **Hide/Show pattern** radio button to add ornamentation patterns structure. 
+ 
+7. With using of previous option <sub><sub>*4*<sub><sub>, additionally check or uncheck **Hide/Show center link** radio button to add background radial structure. 
 
 ## 💖 Support project
 
