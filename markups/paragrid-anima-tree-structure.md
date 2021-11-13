@@ -61,13 +61,13 @@ Examples of the graphic output stream of unique series generation with parametri
 
 3. Check or uncheck **Center colors on/off** to randomize pattern default color.
 
-4. Check or uncheck **Grid colors on/off** and convert the default contour line to a semitone of the overall color.
+4. Check or uncheck **Grid colors on/off** to convert the default contour line to a semitone of the overall color.
 
-5. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease line width.
+5. Check or uncheck **Hide/Show pattern** radio button to add ornamentation patterns structure. 
 
-6. Check or uncheck **Hide/Show pattern** radio button to add ornamentation patterns structure. 
- 
-7. With using of previous option <sub><sub>*4*<sub><sub>, additionally check or uncheck **Hide/Show center link** radio button to add background radial structure. 
+6. Check or uncheck **Hide/Show center link** radio button to add background radial pattern. 
+
+7. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease line width.
 
 ## 💖 Support project
 
