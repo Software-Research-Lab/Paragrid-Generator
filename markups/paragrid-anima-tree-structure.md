@@ -39,6 +39,8 @@ Examples of the graphic output stream of unique series generation with parametri
  - [Structural identification option](#Structural-identification-option)
  - [Design option](#Design-option)
 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-14.png" width="800">
+
 #### Controls
 
 1. Scroll track bars under **S** side label, to set head position.
