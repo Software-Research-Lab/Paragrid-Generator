@@ -57,6 +57,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Emergence](https://en.wikipedia.org/wiki/Emergence)
 - [Scaling dimension](https://en.wikipedia.org/wiki/Scaling_dimension)
 - [Fractal cosmology](https://en.wikipedia.org/wiki/Fractal_cosmology)
+- [Observable universe](https://en.wikipedia.org/wiki/Observable_universe)
 - [Pi](https://en.wikipedia.org/wiki/Pi)
 - [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
 - [Golden ratio](https://en.wikipedia.org/wiki/Golden_ratio)
