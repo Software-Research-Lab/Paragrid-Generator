@@ -49,8 +49,6 @@ Examples of the graphic output stream of unique series generation with parametri
 
 3. Scroll track bars under **R** right and **L** left legs position.
 
-4. Check **Multi orbit/single orbit** radio button in **Setting** group box to switch from single orbit to multi orbit mode and in in **Controls** change numeric up-down number value under **Density** label to set number of orbits.
-
  #### Structural identification option
 
 1. Check or uncheck **Hide/Show node units** radio button to hide or display radial tree angular branches.
