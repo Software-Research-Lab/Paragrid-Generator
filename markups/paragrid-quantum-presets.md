@@ -93,6 +93,13 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [369 number](https://en.wikipedia.org/wiki/369_(number))
 - [Biocentrism](https://en.wikipedia.org/wiki/Robert_Lanza#Biocentrism)
 
+#### Additional links:
+
+- [Scale symmetry across galactic and atomic scales of the universe](https://www.researchgate.net/figure/Color-online-Scale-symmetry-across-galactic-and-atomic-scales-of-the-universe-A_fig2_338388212)
+- [Galaxies, stars and planets](https://www.open.edu/openlearn/science-maths-technology/galaxies-stars-and-planets/content-section-2)
+- [At what scales does complexity thrive, and why](https://medium.com/@chuckfuller_49362/at-what-scales-does-complexity-thrive-and-why-2a9d0d9e349e)
+- [Lengths from very small to very large](https://www.mathsisfun.com/measure/lengths-small-large.html)
+
 ## 💖 Support project
 
 Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
