@@ -51,6 +51,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Lemniscate](https://en.wikipedia.org/wiki/Lemniscate)
 - [Mobius strip](https://en.wikipedia.org/wiki/Mobius_strip)
 - [Infinite divisibility](https://en.wikipedia.org/wiki/Infinite_divisibility_(probability))
+- [Friedmann equations](https://en.wikipedia.org/wiki/Friedmann_equations)
 - [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 - [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 - [Emergence](https://en.wikipedia.org/wiki/Emergence)
