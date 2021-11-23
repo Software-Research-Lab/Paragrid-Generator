@@ -17,7 +17,7 @@ Intelligent systems and robotics laboratory**
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img19.jpg)
 
-## Quantum
+## Core
 
  - [Control and setting](#Control-and-setting)
 
@@ -33,6 +33,8 @@ Examples of the graphic output stream of unique series generation with parametri
  
 ### 📌[Paragrid Core processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-presets.md) 
 
+<!---
+
 ## Control and setting
 
  - [Controls](#Controls)
@@ -40,8 +42,6 @@ Examples of the graphic output stream of unique series generation with parametri
  - [Design effect](#Design-effect)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-15.png" width="800">
-
-<!---
 
 #### Controls
 
