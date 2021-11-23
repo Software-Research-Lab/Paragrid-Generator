@@ -15,7 +15,7 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Quantum structure
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img18.jpg)
+![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img19.jpg)
 
 ## Quantum
 
