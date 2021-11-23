@@ -33,37 +33,20 @@ Examples of the graphic output stream of unique series generation with parametri
  
 ### 📌[Paragrid Core processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-presets.md) 
 
-<!---
+## Setting
 
-## Control and setting
-
- - [Controls](#Controls)
- - [Structural identification option](#Structural-identification-option)
  - [Design effect](#Design-effect)
-
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-15.png" width="800">
-
-#### Controls
-
-1. Change numeric up-down number value under **Unit radius** label to set circle radius.
-
-2. Change numeric up-down number value under **Round radius** label to set round ring radius.
-
-3. Change numeric up-down number value under **Unit number** label to set number of units.
-
-4. Check **Multi orbit/single orbit** radio button in **Setting** group box to switch from single orbit to multi orbit mode and in in **Controls** change numeric up-down number value under **Density** label to set number of orbits.
-
- #### Structural identification option
-
-1. Check or uncheck **Hide/Show node units** radio button to hide or display circles id numbers and count.
-
-2. Check or uncheck **Hide/Show center link** radio button to hide or display the round ring radius identification circle.
+ - [Structural identification option](#Structural-identification-option)
 
 #### Design effect
 
-1. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease circles line width.
+1. Check or uncheck **Hide/Show center link** radio button to hide or display telescope frame.
 
-2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to use **Center colors off/on** option, which allows circle background and **Grid colors off/on** line color randomization. --->
+2. Check or uncheck **Shift centers/Single** radio button to add rays to the core. 
+
+#### Structural identification option
+
+1. Check or uncheck **Hide/Show node units** radio button to hide or display ray orbits circle.
 
 ## 💖 Support project
 
