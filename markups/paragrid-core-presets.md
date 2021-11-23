@@ -1,8 +1,6 @@
-
-
- # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
+# [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
 
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
@@ -20,7 +18,7 @@ Intelligent systems and robotics laboratory**
 
 <!--- Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails --->
 
-📌 [Read about Quantum structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-structure.md)
+📌 [Read about Core structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-structure.md)
  
 Look into the telescope, dive through the colorful cosmic streams to see distant stars and systems on the edge of the colossal galaxy.
 
@@ -51,5 +49,3 @@ To support the project follow the donation link:
 <sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
 
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
-
-
