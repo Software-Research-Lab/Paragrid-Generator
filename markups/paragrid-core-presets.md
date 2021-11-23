@@ -21,10 +21,8 @@ Intelligent systems and robotics laboratory**
 <!--- Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails --->
 
 📌 [Read about Quantum structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-structure.md)
-
-🔗 [Structure related references](#Structure-related-references)
  
-Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
+Look into the telescope, dive through the colorful cosmic streams to see distant stars and systems on the edge of the colossal galaxy.
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
