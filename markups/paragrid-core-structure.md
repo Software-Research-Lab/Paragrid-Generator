@@ -23,13 +23,13 @@ Intelligent systems and robotics laboratory**
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-15.png" width="800">
 
-Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
+The graphical image represents radial and linear structures panorama populated by stars and meteorites patterns.
 
 ### Output:
  
-The generation output object formation consists of the round ring and circle radiuses control with a set of circles and formation density orbits number.
+The generation output image formation consists of intersection parallel lines and objects radial spray randomization.
 
-Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the quantum structure:
+Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the core structure:
  
 ### 📌[Paragrid Core processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-presets.md) 
 
