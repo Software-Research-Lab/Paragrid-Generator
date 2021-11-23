@@ -31,6 +31,8 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(1).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(2).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(3).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(4).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(5).jpg)
 
 ## 💖 Support project
 
