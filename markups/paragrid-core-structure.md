@@ -19,7 +19,7 @@ Intelligent systems and robotics laboratory**
 
 ## Core
 
- - [Control and setting](#Control-and-setting)
+ - [Setting](#Setting)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-15.png" width="800">
 
