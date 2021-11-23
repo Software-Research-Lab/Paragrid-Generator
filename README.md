@@ -141,6 +141,12 @@ Intelligent systems and robotics laboratory**
 
 👉 [Paragrid Anima-tree processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-anima-tree-presets.md)
 
+#### Core
+
+📌 [Core structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-structure.md)
+
+👉 [Paragrid Core processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-presets.md)
+
 #
 
 ### Test demo app
