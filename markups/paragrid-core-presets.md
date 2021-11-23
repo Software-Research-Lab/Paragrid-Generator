@@ -26,7 +26,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ## Biomes generation artifact archive
 
-### Galaxy telescope
+### Galaxy
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(1).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(2).jpg)
