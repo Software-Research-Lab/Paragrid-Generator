@@ -31,7 +31,7 @@ The generation output object formation consists of the round ring and circle rad
 
 Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the quantum structure:
  
-### 📌[Paragrid Quantum processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-presets.md) 
+### 📌[Paragrid Core processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-presets.md) 
 
 ## Control and setting
 
@@ -40,6 +40,8 @@ Examples of the graphic output stream of unique series generation with parametri
  - [Design effect](#Design-effect)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-15.png" width="800">
+
+<!---
 
 #### Controls
 
@@ -61,7 +63,7 @@ Examples of the graphic output stream of unique series generation with parametri
 
 1. Set numeric up-down number value under **Width** label in **Setting** group box panel to increase/decrease circles line width.
 
-2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to use **Center colors off/on** option, which allows circle background and **Grid colors off/on** line color randomization.
+2. Check or uncheck **Structure on/off** radio button in **Save** group box panel to use **Center colors off/on** option, which allows circle background and **Grid colors off/on** line color randomization. --->
 
 ## 💖 Support project
 
