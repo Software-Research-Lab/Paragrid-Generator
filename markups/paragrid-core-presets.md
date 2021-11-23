@@ -20,7 +20,7 @@ Intelligent systems and robotics laboratory**
 
 📌 [Read about Core structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-structure.md)
  
-Look into the interstellar bubble-craft porthole telescope and dive through the colorful cosmic streams depths to see distant stars and systems on the edges of the colossal galaxy.
+Look into the interstellar bubble-craft porthole telescope and dive through the colorful cosmic streams depth to see distant stars and systems on the edges of the colossal galaxy.
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
