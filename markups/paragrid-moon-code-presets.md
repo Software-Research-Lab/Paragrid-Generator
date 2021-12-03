@@ -12,7 +12,7 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Moon-code structure presets output
  
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img14.jpg)
+<!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img14.jpg) --->
  
 📌 [Read about Moon-code structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-moon-code-structure.md)
 
