@@ -23,13 +23,13 @@ Intelligent systems and robotics laboratory**
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-16.png" width="800">
 
-The graphical image represents radial and linear structures panorama populated by stars and meteorites patterns.
+The graphical image represents the radial scattering of graphical elements and central image segments randomization structure.
 
 ### Output:
  
-The generation output image formation consists of intersection parallel lines and objects radial spray randomization.
+The generation output image formation consists of overlapping ellipses, logotype structure clusters, and radial randomization of design elements.
 
-Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the core structure:
+Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the moon-code structure:
  
 ### 📌[Paragrid Moon-code processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-moon-code-presets.md) 
 
