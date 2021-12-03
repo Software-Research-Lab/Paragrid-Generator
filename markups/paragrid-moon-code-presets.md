@@ -26,9 +26,8 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ### Moon-code
 
-![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-quantum-torus-(0).jpg)
-![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-quantum-torus-(1).jpg)
-![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-quantum-torus-(2).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-moon-code-(1).jpg)
+![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-moon-code-(2).jpg)
 
 ## 💖 Support project
 
