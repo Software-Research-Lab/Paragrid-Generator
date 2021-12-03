@@ -31,7 +31,7 @@ The generation output image formation consists of intersection parallel lines an
 
 Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the core structure:
  
-### 📌[Paragrid Core processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-moon-code-presets.md) 
+### 📌[Paragrid Moon-code processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-moon-code-presets.md) 
 
 ## Setting
 
