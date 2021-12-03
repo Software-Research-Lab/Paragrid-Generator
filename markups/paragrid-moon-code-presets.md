@@ -1,8 +1,6 @@
-
-
- # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
+# [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
 
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
@@ -18,7 +16,7 @@ Intelligent systems and robotics laboratory**
  
 📌 [Read about Moon-code structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-moon-code-structure.md)
 
-Overlapping circles grid structure repetitive pattern defined in geometric curves or polygonal shapes and structures.
+Radial scattering of circles and stars punched tape around the moon with grape bunches, based on the logotype graphic design. 
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
@@ -46,5 +44,3 @@ To support the project follow the donation link:
 <sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
 
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
-
-
