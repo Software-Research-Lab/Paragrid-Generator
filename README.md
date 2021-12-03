@@ -147,6 +147,12 @@ Intelligent systems and robotics laboratory**
 
 👉 [Paragrid Core processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-presets.md)
 
+#### Moon-code
+
+📌 [Moon-code structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-moon-code-structure.md)
+
+👉 [Paragrid Moon-code processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-moon-code-presets.md)
+
 #
 
 ### Test demo app
