@@ -21,7 +21,7 @@ Intelligent systems and robotics laboratory**
 
  - [Setting](#Setting)
 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-15.png" width="800">
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-16.png" width="800">
 
 The graphical image represents radial and linear structures panorama populated by stars and meteorites patterns.
 
