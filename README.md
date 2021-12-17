@@ -153,6 +153,12 @@ Intelligent systems and robotics laboratory**
 
 👉 [Paragrid Moon-code processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-moon-code-presets.md)
 
+#### C-bold
+
+📌 [C-bold structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-c-bold-structure.md)
+
+👉 [Paragrid C-bold processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-c-bold-presets.md)
+
 #
 
 ### Test demo app
