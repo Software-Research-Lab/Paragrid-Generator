@@ -20,7 +20,7 @@ Intelligent systems and robotics laboratory**
 
 📌 [Read about C-bold structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-c-bold-structure.md)
  
-Fly over eastern night megalopolis horizons and landscape, dark sparkling megaliths of the human anthill, monumental and mesmerizing like a dream, the utopic and nostalgic cyberpunk future world of "Blade runner" with vaporwave aesthetics.
+Fly over eastern megalopolis night horizon landscape, dark sparkling megaliths of the human anthill, monumental and mesmerizing like a dream, the utopic and nostalgic cyberpunk future of "Blade runner" world with vaporwave aesthetics.
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
