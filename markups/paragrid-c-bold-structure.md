@@ -18,11 +18,11 @@ Intelligent systems and robotics laboratory**
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img19.jpg)
 
-## Core
+## C-bold
 
  - [Setting](#Setting)
 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-15.png" width="800">
+<!--- <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-15.png" width="800"> --->
 
 The graphical image represents radial and linear structures panorama populated by stars and meteorites patterns.
 
@@ -30,9 +30,9 @@ The graphical image represents radial and linear structures panorama populated b
  
 The generation output image formation consists of intersection parallel lines and objects radial spray randomization.
 
-Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the core structure:
+Examples of the graphic output stream of unique series generation with parametric grid matrix, based on the c-bold structure:
  
-### 📌[Paragrid Core processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-presets.md) 
+### 📌[Paragrid C-bold processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-c-bold-presets.md) 
 
 ## Setting
 
