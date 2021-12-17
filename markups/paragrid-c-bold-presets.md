@@ -18,7 +18,7 @@ Intelligent systems and robotics laboratory**
 
 <!--- Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails --->
 
-📌 [Read about Core structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-core-structure.md)
+📌 [Read about C-bold structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-c-bold-structure.md)
  
 Look into the interstellar bubble-craft porthole telescope and dive through the colorful cosmic streams of nebular depths to see the distant stars and systems on the edges of the colossal galaxy.
 
@@ -26,7 +26,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 
 ## Biomes generation artifact archive
 
-### Galaxy
+### C-bold
 
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(1).jpg)
 ![alt text](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-core-galaxy-(2).jpg)
