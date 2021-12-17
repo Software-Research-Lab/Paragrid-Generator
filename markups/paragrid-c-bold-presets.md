@@ -20,7 +20,7 @@ Intelligent systems and robotics laboratory**
 
 📌 [Read about C-bold structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-c-bold-structure.md)
  
-Look into the interstellar bubble-craft porthole telescope and dive through the colorful cosmic streams of nebular depths to see the distant stars and systems on the edges of the colossal galaxy.
+Fly over colossal eastern night megalopolis horizons and landscape, dark sparkling megaliths of the human anthill, monumental and mesmerizing like a dream, the utopic and nostalgic cyberpunk future world of "Blade runner" with vaporwave aesthetics.
 
 Fishing into the infinite depths of mysterious formation, cast by the algorithmic wave ashore. 
 
