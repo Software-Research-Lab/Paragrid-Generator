@@ -93,6 +93,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Fourth way enneagram](https://en.wikipedia.org/wiki/Fourth_Way_enneagram)
 - [369 number](https://en.wikipedia.org/wiki/369_(number))
 - [Biocentrism](https://en.wikipedia.org/wiki/Robert_Lanza#Biocentrism)
+- [Marko Rodin vortex based mathematics](https://rense.com//rodinaerodynamics.htm)
 
 #### Additional links:
 
