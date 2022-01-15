@@ -167,7 +167,7 @@ Intelligent systems and robotics laboratory**
 
 💾 [Paragrid application](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) 
 
-☁️ [Paragrid repository](https://github.com/ladooniani/Data-parametric-sequencer) 
+☁️ [Paragrid repository](https://github.com/ladooniani) 
 
 ⚡ [Demo trial](https://missingmonument.com/temp/Paragrid.zip) 
 
