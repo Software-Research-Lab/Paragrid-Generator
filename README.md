@@ -33,7 +33,7 @@ Intelligent systems and robotics laboratory**
 
 1. [Download](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) Windows Installer and install "Paragrid" application on the computer 
   
- <img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-1.png" width="800">  
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/images/paragrid/paragrid-app-1.png" width="800">  
 
 ### Controls
 
@@ -163,7 +163,7 @@ Intelligent systems and robotics laboratory**
 
 ### Test demo app
 
- [Test demo apps](https://github.com/ladooniani/Data-parametric-sequencer) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
+[Test demo apps](https://github.com/ladooniani/Data-parametric-sequencer) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
 
 💾 [Paragrid application](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) 
 
