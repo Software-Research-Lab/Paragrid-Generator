@@ -49,6 +49,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Snowflake](https://en.wikipedia.org/wiki/Snowflake)
 - [Fractal](https://en.wikipedia.org/wiki/Fractal)
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- [Feynman diagram](https://en.wikipedia.org/wiki/Feynman_diagram)
 - [Infinity](https://en.wikipedia.org/wiki/Infinity)
 - [Lemniscate](https://en.wikipedia.org/wiki/Lemniscate)
 - [Mobius strip](https://en.wikipedia.org/wiki/Mobius_strip)
