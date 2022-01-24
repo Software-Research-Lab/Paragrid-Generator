@@ -94,6 +94,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
 - [Enneagram](https://en.wikipedia.org/wiki/Enneagram_(geometry))
 - [Fourth way enneagram](https://en.wikipedia.org/wiki/Fourth_Way_enneagram)
+- [Nikola Tesla numbers](https://en.wikipedia.org/wiki/Nikola_Tesla)
 - [369 number](https://en.wikipedia.org/wiki/369_(number))
 - [Biocentrism](https://en.wikipedia.org/wiki/Robert_Lanza#Biocentrism)
 - [Marko Rodin vortex based mathematics](https://rense.com//rodinaerodynamics.htm)
