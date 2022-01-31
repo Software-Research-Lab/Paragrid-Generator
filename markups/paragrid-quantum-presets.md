@@ -68,6 +68,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man)
 - [Seashell](https://en.wikipedia.org/wiki/Seashell)
 - [Torus](https://en.wikipedia.org/wiki/Torus)
+- [Omnidirectional antenna](https://en.wikipedia.org/wiki/Omnidirectional_antenna)
 - [Vortex ring](https://en.wikipedia.org/wiki/Vortex_ring)
 - [Vortex](https://en.wikipedia.org/wiki/Vortex)
 - [Atom](https://en.wikipedia.org/wiki/Atom)
