@@ -167,7 +167,7 @@ Intelligent systems and robotics laboratory**
 
 ### Test demo app
 
-[Test demo apps](https://github.com/ladooniani/Data-parametric-sequencer) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
+[Test demo apps](https://github.com/ladooniani/) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
 
 💾 [Paragrid application](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) 
 
