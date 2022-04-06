@@ -12,7 +12,7 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Butterfly-net structure presets output
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img8.jpg)
+<!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img8.jpg) --->
 
 📌 [Read about Butterfly-net structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-butterfly-net-structure.md)
 
