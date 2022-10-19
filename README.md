@@ -14,7 +14,7 @@ Intelligent systems and robotics laboratory**
 
 [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/terbinari) --->
  
-# Paragrid (Graphic structure randomisation generator)
+# Paragrid
 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img5.jpg)
 
@@ -26,7 +26,7 @@ Intelligent systems and robotics laboratory**
 
 ## Paragrid
 
-"Paragrid" desktop application provides data parametric grid sequencer control, matrix processing graph visualization generator, structure build settings and presets with image file unique series output. 
+"Paragrid" desktop application provides data parametric grid sequencer control, matrix processing graph visualization and graphic structure randomisation generator, construction build settings and presets with image file unique series output. 
 
 ## How to use
 
