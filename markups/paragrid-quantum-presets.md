@@ -14,9 +14,7 @@ Intelligent systems and robotics laboratory**
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Quantum structure presets output
 
 <!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img9.jpg) --->
-
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img14.jpg)
-
+ 
 <!--- Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails --->
 
 📌 [Read about Quantum structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-quantum-structure.md)
