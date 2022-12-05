@@ -12,11 +12,7 @@ Intelligent systems and robotics laboratory**
 ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Anima-tree structure presets output
-
-<!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img9.jpg) --->
-
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img16.jpg)
-
+ 
 <!--- Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails --->
 
 📌 [Read about Anima-tree structure](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-anima-tree-structure.md)
