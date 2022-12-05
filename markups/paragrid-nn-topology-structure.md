@@ -13,8 +13,7 @@ Intelligent systems and robotics laboratory**
 
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) NN-Topology structure
 
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img9.jpg)
-
+ 
 ## NN-Topology
 
 The graphical matrix, based on the topological structure of a [artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) [complete graph](https://en.wikipedia.org/wiki/Complete_graph) with connections between all nodes of the input layer directly to each node of the output. 
