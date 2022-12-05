@@ -13,8 +13,7 @@ Intelligent systems and robotics laboratory**
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) NN-Topology structure presets output
 
 <!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img9.jpg) --->
-
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img4.jpg)
+ 
 
 <!--- Look into the foggy round vase fisheye, the planet lyre of the bogs and rainbows, sticky blots of inky clouds float over the swamp flowers, reed, and moss, inhabited by dragonflies, frogs, and snails --->
 
