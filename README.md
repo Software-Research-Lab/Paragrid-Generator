@@ -15,8 +15,7 @@ Intelligent systems and robotics laboratory**
 [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/terbinari) --->
  
 # Paragrid
-
-![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img5.jpg)
+ 
 
 ### ✔️ Content
 
