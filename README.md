@@ -25,7 +25,7 @@ Intelligent systems and robotics laboratory**
 
 ## Paragrid
 
-"Paragrid" desktop application provides data parametric grid sequencer control, matrix processing graph visualization and graphic structure randomisation generator, construction build settings and presets with image file unique series output. 
+"Paragrid" desktop application provides data parametric grid sequencer control, matrix processing graph visualization and graphic structure randomization generator, construction build settings and presets with image file unique series output. 
 
 ## How to use
 
