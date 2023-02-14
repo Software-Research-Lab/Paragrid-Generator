@@ -1,6 +1,6 @@
- # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
+ [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/rcvp/blob/master/assets/tailb.png" />](https://github.com/ladooniani/DropSuit#readme)
  
- <!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png) --->
+ # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
 
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
