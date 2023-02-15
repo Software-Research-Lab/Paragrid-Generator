@@ -1,10 +1,14 @@
- [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/rcvp/blob/master/assets/tailb.png" />](https://github.com/ladooniani/DropSuit#readme)
+<!--
+
+[<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/rcvp/blob/master/assets/tailb.png" />](https://github.com/ladooniani/DropSuit#readme)
  
  # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
 
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
 Intelligent systems and robotics laboratory**
+
+-->
 
 #
 
