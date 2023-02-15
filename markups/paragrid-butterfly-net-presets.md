@@ -1,6 +1,3 @@
-
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)
-
 # [Paragrid](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc) Butterfly-net structure presets output
 
 <!--- ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img8.jpg) --->
