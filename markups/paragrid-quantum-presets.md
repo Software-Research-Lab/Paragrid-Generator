@@ -32,6 +32,7 @@ Fishing into the infinite depths of mysterious formation, cast by the algorithmi
 - [Flower of life](https://en.wikipedia.org/wiki/Overlapping_circles_grid#Modern_usage)
 - [Hexagon](https://en.wikipedia.org/wiki/Hexagon)
 - [Hexagram](https://en.wikipedia.org/wiki/Hexagram)
+- [Penta-Hexa](https://cienciacuantica.org/en/2021/02/12/penta-hexa-der-schopfung/)
 - [Snowflake](https://en.wikipedia.org/wiki/Snowflake)
 - [Fractal](https://en.wikipedia.org/wiki/Fractal)
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
