@@ -166,34 +166,19 @@ Intelligent systems and robotics laboratory**
 
 #
 <!-- 
-
 ### Test demo app
-
 [Test demo apps](https://github.com/ladooniani/) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
-
 💾 [Paragrid application](https://github.com/ladooniani/Markups/releases/tag/Paragrid-v1.0.7922.23832) 
-
 ☁️ [Paragrid repository](https://github.com/ladooniani) 
-
 ⚡ [Demo trial](https://missingmonument.com/temp/Paragrid.zip) 
-
-
 ## 💖 Support project
-
 Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
-
 To support the project follow the donation link: 
-
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRGH6SL9EL72U">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" /><br><br>
 </a>
-
---->
-
 ## Lab
-
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
-
 <sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
-
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
+--->
