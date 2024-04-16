@@ -165,6 +165,7 @@ Intelligent systems and robotics laboratory**
 👉 [Paragrid C-bold processing presets output catalog](https://github.com/Toy-Artificial-Intelligence-lab/paragrid-doc/blob/main/markups/paragrid-c-bold-presets.md)
 
 #
+<!-- 
 
 ### Test demo app
 
@@ -176,7 +177,6 @@ Intelligent systems and robotics laboratory**
 
 ⚡ [Demo trial](https://missingmonument.com/temp/Paragrid.zip) 
 
-<!-- 
 
 ## 💖 Support project
 
